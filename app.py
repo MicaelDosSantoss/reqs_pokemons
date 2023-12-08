@@ -25,4 +25,3 @@ for i in range(1,number_total_poke):
 
 with open('Pokedex.json', 'w') as pokedex_json: 
     json.dump(list_pokemons, pokedex_json, indent=2)
-
