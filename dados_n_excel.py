@@ -70,9 +70,9 @@ excel.create_sheet('Pokedex') # Criação da tabela de Dados
 excel_pg = excel['Pokedex']
 excel_pg.sheet_view.showGridLines = False
 
-with open('Pokedex.json','r') as Poke:
+with open('generation.json','r') as Poke:
     pokedex_json = json.load(Poke)
-title = ['número do pokemon','Nome de pokemon','Tipos']
+title = ['geração','número do pokemon','Nome de pokemon','Tipos']
 
 excel_pg.append(title)
 

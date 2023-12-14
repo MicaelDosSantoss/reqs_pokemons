@@ -3,157 +3,1430 @@
     "geracao": "kanto",
     "pokemons": [
       [
-        "bulbasaur",
-        "charmander",
-        "squirtle",
-        "caterpie",
-        "weedle",
-        "pidgey",
-        "rattata",
-        "spearow",
-        "ekans",
-        "sandshrew",
-        "nidoran-f",
-        "nidoran-m",
-        "vulpix",
-        "zubat",
-        "oddish",
-        "paras",
-        "venonat",
-        "diglett",
-        "meowth",
-        "psyduck",
-        "mankey",
-        "growlithe",
-        "poliwag",
-        "abra",
-        "machop",
-        "bellsprout",
-        "tentacool",
-        "geodude",
-        "ponyta",
-        "slowpoke",
-        "magnemite",
-        "farfetchd",
-        "doduo",
-        "seel",
-        "grimer",
-        "shellder",
-        "gastly",
-        "onix",
-        "drowzee",
-        "krabby",
-        "voltorb",
-        "exeggcute",
-        "cubone",
-        "lickitung",
-        "koffing",
-        "rhyhorn",
-        "tangela",
-        "kangaskhan",
-        "horsea",
-        "goldeen",
-        "staryu",
-        "scyther",
-        "pinsir",
-        "tauros",
-        "magikarp",
-        "lapras",
-        "ditto",
-        "eevee",
-        "porygon",
-        "omanyte",
-        "kabuto",
-        "aerodactyl",
-        "articuno",
-        "zapdos",
-        "moltres",
-        "dratini",
-        "mewtwo",
-        "mew",
-        "ivysaur",
-        "venusaur",
-        "charmeleon",
-        "charizard",
-        "wartortle",
-        "blastoise",
-        "metapod",
-        "butterfree",
-        "kakuna",
-        "beedrill",
-        "pidgeotto",
-        "pidgeot",
-        "raticate",
-        "fearow",
-        "arbok",
-        "pikachu",
-        "raichu",
-        "sandslash",
-        "nidorina",
-        "nidoqueen",
-        "nidorino",
-        "nidoking",
-        "clefairy",
-        "clefable",
-        "ninetales",
-        "jigglypuff",
-        "wigglytuff",
-        "golbat",
-        "gloom",
-        "vileplume",
-        "parasect",
-        "venomoth",
-        "dugtrio",
-        "persian",
-        "golduck",
-        "primeape",
-        "arcanine",
-        "poliwhirl",
-        "poliwrath",
-        "kadabra",
-        "alakazam",
-        "machoke",
-        "machamp",
-        "weepinbell",
-        "victreebel",
-        "tentacruel",
-        "graveler",
-        "golem",
-        "rapidash",
-        "slowbro",
-        "magneton",
-        "dodrio",
-        "dewgong",
-        "muk",
-        "cloyster",
-        "haunter",
-        "gengar",
-        "hypno",
-        "kingler",
-        "electrode",
-        "exeggutor",
-        "marowak",
-        "hitmonlee",
-        "hitmonchan",
-        "weezing",
-        "rhydon",
-        "chansey",
-        "seadra",
-        "seaking",
-        "starmie",
-        "mr-mime",
-        "jynx",
-        "electabuzz",
-        "magmar",
-        "gyarados",
-        "vaporeon",
-        "jolteon",
-        "flareon",
-        "omastar",
-        "kabutops",
-        "snorlax",
-        "dragonair",
-        "dragonite"
+        {
+          "numero": 1,
+          "pokemon": "bulbasaur",
+          "tipos": [
+            "grass",
+            "poison"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 2,
+          "pokemon": "ivysaur",
+          "tipos": [
+            "grass",
+            "poison"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 3,
+          "pokemon": "venusaur",
+          "tipos": [
+            "grass",
+            "poison"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 4,
+          "pokemon": "charmander",
+          "tipos": [
+            "fire"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 5,
+          "pokemon": "charmeleon",
+          "tipos": [
+            "fire"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 6,
+          "pokemon": "charizard",
+          "tipos": [
+            "fire",
+            "flying"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 7,
+          "pokemon": "squirtle",
+          "tipos": [
+            "water"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 8,
+          "pokemon": "wartortle",
+          "tipos": [
+            "water"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 9,
+          "pokemon": "blastoise",
+          "tipos": [
+            "water"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 10,
+          "pokemon": "caterpie",
+          "tipos": [
+            "bug"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 11,
+          "pokemon": "metapod",
+          "tipos": [
+            "bug"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 12,
+          "pokemon": "butterfree",
+          "tipos": [
+            "bug",
+            "flying"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 13,
+          "pokemon": "weedle",
+          "tipos": [
+            "bug",
+            "poison"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 14,
+          "pokemon": "kakuna",
+          "tipos": [
+            "bug",
+            "poison"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 15,
+          "pokemon": "beedrill",
+          "tipos": [
+            "bug",
+            "poison"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 16,
+          "pokemon": "pidgey",
+          "tipos": [
+            "normal",
+            "flying"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 17,
+          "pokemon": "pidgeotto",
+          "tipos": [
+            "normal",
+            "flying"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 18,
+          "pokemon": "pidgeot",
+          "tipos": [
+            "normal",
+            "flying"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 19,
+          "pokemon": "rattata",
+          "tipos": [
+            "normal"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 20,
+          "pokemon": "raticate",
+          "tipos": [
+            "normal"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 21,
+          "pokemon": "spearow",
+          "tipos": [
+            "normal",
+            "flying"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 22,
+          "pokemon": "fearow",
+          "tipos": [
+            "normal",
+            "flying"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 23,
+          "pokemon": "ekans",
+          "tipos": [
+            "poison"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 24,
+          "pokemon": "arbok",
+          "tipos": [
+            "poison"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 25,
+          "pokemon": "pikachu",
+          "tipos": [
+            "electric"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 26,
+          "pokemon": "raichu",
+          "tipos": [
+            "electric"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 27,
+          "pokemon": "sandshrew",
+          "tipos": [
+            "ground"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 28,
+          "pokemon": "sandslash",
+          "tipos": [
+            "ground"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 29,
+          "pokemon": "nidoran-f",
+          "tipos": [
+            "poison"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 30,
+          "pokemon": "nidorina",
+          "tipos": [
+            "poison"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 31,
+          "pokemon": "nidoqueen",
+          "tipos": [
+            "poison",
+            "ground"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 32,
+          "pokemon": "nidoran-m",
+          "tipos": [
+            "poison"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 33,
+          "pokemon": "nidorino",
+          "tipos": [
+            "poison"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 34,
+          "pokemon": "nidoking",
+          "tipos": [
+            "poison",
+            "ground"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 35,
+          "pokemon": "clefairy",
+          "tipos": [
+            "fairy"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 36,
+          "pokemon": "clefable",
+          "tipos": [
+            "fairy"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 37,
+          "pokemon": "vulpix",
+          "tipos": [
+            "fire"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 38,
+          "pokemon": "ninetales",
+          "tipos": [
+            "fire"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 39,
+          "pokemon": "jigglypuff",
+          "tipos": [
+            "normal",
+            "fairy"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 40,
+          "pokemon": "wigglytuff",
+          "tipos": [
+            "normal",
+            "fairy"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 41,
+          "pokemon": "zubat",
+          "tipos": [
+            "poison",
+            "flying"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 42,
+          "pokemon": "golbat",
+          "tipos": [
+            "poison",
+            "flying"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 43,
+          "pokemon": "oddish",
+          "tipos": [
+            "grass",
+            "poison"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 44,
+          "pokemon": "gloom",
+          "tipos": [
+            "grass",
+            "poison"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 45,
+          "pokemon": "vileplume",
+          "tipos": [
+            "grass",
+            "poison"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 46,
+          "pokemon": "paras",
+          "tipos": [
+            "bug",
+            "grass"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 47,
+          "pokemon": "parasect",
+          "tipos": [
+            "bug",
+            "grass"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 48,
+          "pokemon": "venonat",
+          "tipos": [
+            "bug",
+            "poison"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 49,
+          "pokemon": "venomoth",
+          "tipos": [
+            "bug",
+            "poison"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 50,
+          "pokemon": "diglett",
+          "tipos": [
+            "ground"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 51,
+          "pokemon": "dugtrio",
+          "tipos": [
+            "ground"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 52,
+          "pokemon": "meowth",
+          "tipos": [
+            "normal"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 53,
+          "pokemon": "persian",
+          "tipos": [
+            "normal"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 54,
+          "pokemon": "psyduck",
+          "tipos": [
+            "water"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 55,
+          "pokemon": "golduck",
+          "tipos": [
+            "water"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 56,
+          "pokemon": "mankey",
+          "tipos": [
+            "fighting"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 57,
+          "pokemon": "primeape",
+          "tipos": [
+            "fighting"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 58,
+          "pokemon": "growlithe",
+          "tipos": [
+            "fire"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 59,
+          "pokemon": "arcanine",
+          "tipos": [
+            "fire"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 60,
+          "pokemon": "poliwag",
+          "tipos": [
+            "water"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 61,
+          "pokemon": "poliwhirl",
+          "tipos": [
+            "water"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 62,
+          "pokemon": "poliwrath",
+          "tipos": [
+            "water",
+            "fighting"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 63,
+          "pokemon": "abra",
+          "tipos": [
+            "psychic"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 64,
+          "pokemon": "kadabra",
+          "tipos": [
+            "psychic"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 65,
+          "pokemon": "alakazam",
+          "tipos": [
+            "psychic"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 66,
+          "pokemon": "machop",
+          "tipos": [
+            "fighting"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 67,
+          "pokemon": "machoke",
+          "tipos": [
+            "fighting"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 68,
+          "pokemon": "machamp",
+          "tipos": [
+            "fighting"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 69,
+          "pokemon": "bellsprout",
+          "tipos": [
+            "grass",
+            "poison"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 70,
+          "pokemon": "weepinbell",
+          "tipos": [
+            "grass",
+            "poison"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 71,
+          "pokemon": "victreebel",
+          "tipos": [
+            "grass",
+            "poison"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 72,
+          "pokemon": "tentacool",
+          "tipos": [
+            "water",
+            "poison"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 73,
+          "pokemon": "tentacruel",
+          "tipos": [
+            "water",
+            "poison"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 74,
+          "pokemon": "geodude",
+          "tipos": [
+            "rock",
+            "ground"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 75,
+          "pokemon": "graveler",
+          "tipos": [
+            "rock",
+            "ground"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 76,
+          "pokemon": "golem",
+          "tipos": [
+            "rock",
+            "ground"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 77,
+          "pokemon": "ponyta",
+          "tipos": [
+            "fire"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 78,
+          "pokemon": "rapidash",
+          "tipos": [
+            "fire"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 79,
+          "pokemon": "slowpoke",
+          "tipos": [
+            "water",
+            "psychic"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 80,
+          "pokemon": "slowbro",
+          "tipos": [
+            "water",
+            "psychic"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 81,
+          "pokemon": "magnemite",
+          "tipos": [
+            "electric",
+            "steel"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 82,
+          "pokemon": "magneton",
+          "tipos": [
+            "electric",
+            "steel"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 83,
+          "pokemon": "farfetchd",
+          "tipos": [
+            "normal",
+            "flying"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 84,
+          "pokemon": "doduo",
+          "tipos": [
+            "normal",
+            "flying"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 85,
+          "pokemon": "dodrio",
+          "tipos": [
+            "normal",
+            "flying"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 86,
+          "pokemon": "seel",
+          "tipos": [
+            "water"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 87,
+          "pokemon": "dewgong",
+          "tipos": [
+            "water",
+            "ice"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 88,
+          "pokemon": "grimer",
+          "tipos": [
+            "poison"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 89,
+          "pokemon": "muk",
+          "tipos": [
+            "poison"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 90,
+          "pokemon": "shellder",
+          "tipos": [
+            "water"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 91,
+          "pokemon": "cloyster",
+          "tipos": [
+            "water",
+            "ice"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 92,
+          "pokemon": "gastly",
+          "tipos": [
+            "ghost",
+            "poison"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 93,
+          "pokemon": "haunter",
+          "tipos": [
+            "ghost",
+            "poison"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 94,
+          "pokemon": "gengar",
+          "tipos": [
+            "ghost",
+            "poison"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 95,
+          "pokemon": "onix",
+          "tipos": [
+            "rock",
+            "ground"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 96,
+          "pokemon": "drowzee",
+          "tipos": [
+            "psychic"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 97,
+          "pokemon": "hypno",
+          "tipos": [
+            "psychic"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 98,
+          "pokemon": "krabby",
+          "tipos": [
+            "water"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 99,
+          "pokemon": "kingler",
+          "tipos": [
+            "water"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 100,
+          "pokemon": "voltorb",
+          "tipos": [
+            "electric"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 101,
+          "pokemon": "electrode",
+          "tipos": [
+            "electric"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 102,
+          "pokemon": "exeggcute",
+          "tipos": [
+            "grass",
+            "psychic"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 103,
+          "pokemon": "exeggutor",
+          "tipos": [
+            "grass",
+            "psychic"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 104,
+          "pokemon": "cubone",
+          "tipos": [
+            "ground"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 105,
+          "pokemon": "marowak",
+          "tipos": [
+            "ground"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 106,
+          "pokemon": "hitmonlee",
+          "tipos": [
+            "fighting"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 107,
+          "pokemon": "hitmonchan",
+          "tipos": [
+            "fighting"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 108,
+          "pokemon": "lickitung",
+          "tipos": [
+            "normal"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 109,
+          "pokemon": "koffing",
+          "tipos": [
+            "poison"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 110,
+          "pokemon": "weezing",
+          "tipos": [
+            "poison"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 111,
+          "pokemon": "rhyhorn",
+          "tipos": [
+            "ground",
+            "rock"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 112,
+          "pokemon": "rhydon",
+          "tipos": [
+            "ground",
+            "rock"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 113,
+          "pokemon": "chansey",
+          "tipos": [
+            "normal"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 114,
+          "pokemon": "tangela",
+          "tipos": [
+            "grass"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 115,
+          "pokemon": "kangaskhan",
+          "tipos": [
+            "normal"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 116,
+          "pokemon": "horsea",
+          "tipos": [
+            "water"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 117,
+          "pokemon": "seadra",
+          "tipos": [
+            "water"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 118,
+          "pokemon": "goldeen",
+          "tipos": [
+            "water"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 119,
+          "pokemon": "seaking",
+          "tipos": [
+            "water"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 120,
+          "pokemon": "staryu",
+          "tipos": [
+            "water"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 121,
+          "pokemon": "starmie",
+          "tipos": [
+            "water",
+            "psychic"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 122,
+          "pokemon": "mr-mime",
+          "tipos": [
+            "psychic",
+            "fairy"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 123,
+          "pokemon": "scyther",
+          "tipos": [
+            "bug",
+            "flying"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 124,
+          "pokemon": "jynx",
+          "tipos": [
+            "ice",
+            "psychic"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 125,
+          "pokemon": "electabuzz",
+          "tipos": [
+            "electric"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 126,
+          "pokemon": "magmar",
+          "tipos": [
+            "fire"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 127,
+          "pokemon": "pinsir",
+          "tipos": [
+            "bug"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 128,
+          "pokemon": "tauros",
+          "tipos": [
+            "normal"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 129,
+          "pokemon": "magikarp",
+          "tipos": [
+            "water"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 130,
+          "pokemon": "gyarados",
+          "tipos": [
+            "water",
+            "flying"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 131,
+          "pokemon": "lapras",
+          "tipos": [
+            "water",
+            "ice"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 132,
+          "pokemon": "ditto",
+          "tipos": [
+            "normal"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 133,
+          "pokemon": "eevee",
+          "tipos": [
+            "normal"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 134,
+          "pokemon": "vaporeon",
+          "tipos": [
+            "water"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 135,
+          "pokemon": "jolteon",
+          "tipos": [
+            "electric"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 136,
+          "pokemon": "flareon",
+          "tipos": [
+            "fire"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 137,
+          "pokemon": "porygon",
+          "tipos": [
+            "normal"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 138,
+          "pokemon": "omanyte",
+          "tipos": [
+            "rock",
+            "water"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 139,
+          "pokemon": "omastar",
+          "tipos": [
+            "rock",
+            "water"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 140,
+          "pokemon": "kabuto",
+          "tipos": [
+            "rock",
+            "water"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 141,
+          "pokemon": "kabutops",
+          "tipos": [
+            "rock",
+            "water"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 142,
+          "pokemon": "aerodactyl",
+          "tipos": [
+            "rock",
+            "flying"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 143,
+          "pokemon": "snorlax",
+          "tipos": [
+            "normal"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 144,
+          "pokemon": "articuno",
+          "tipos": [
+            "ice",
+            "flying"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 145,
+          "pokemon": "zapdos",
+          "tipos": [
+            "electric",
+            "flying"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 146,
+          "pokemon": "moltres",
+          "tipos": [
+            "fire",
+            "flying"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 147,
+          "pokemon": "dratini",
+          "tipos": [
+            "dragon"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 148,
+          "pokemon": "dragonair",
+          "tipos": [
+            "dragon"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 149,
+          "pokemon": "dragonite",
+          "tipos": [
+            "dragon",
+            "flying"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 150,
+          "pokemon": "mewtwo",
+          "tipos": [
+            "psychic"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 151,
+          "pokemon": "mew",
+          "tipos": [
+            "psychic"
+          ]
+        }
       ]
     ]
   },
@@ -161,106 +1434,953 @@
     "geracao": "johto",
     "pokemons": [
       [
-        "chikorita",
-        "cyndaquil",
-        "totodile",
-        "sentret",
-        "hoothoot",
-        "ledyba",
-        "spinarak",
-        "chinchou",
-        "pichu",
-        "cleffa",
-        "igglybuff",
-        "togepi",
-        "natu",
-        "mareep",
-        "hoppip",
-        "aipom",
-        "sunkern",
-        "yanma",
-        "wooper",
-        "murkrow",
-        "misdreavus",
-        "unown",
-        "girafarig",
-        "pineco",
-        "dunsparce",
-        "gligar",
-        "snubbull",
-        "qwilfish",
-        "shuckle",
-        "heracross",
-        "sneasel",
-        "teddiursa",
-        "slugma",
-        "swinub",
-        "corsola",
-        "remoraid",
-        "delibird",
-        "skarmory",
-        "houndour",
-        "phanpy",
-        "stantler",
-        "smeargle",
-        "tyrogue",
-        "smoochum",
-        "elekid",
-        "magby",
-        "miltank",
-        "raikou",
-        "entei",
-        "suicune",
-        "larvitar",
-        "lugia",
-        "ho-oh",
-        "celebi",
-        "bayleef",
-        "meganium",
-        "quilava",
-        "typhlosion",
-        "croconaw",
-        "feraligatr",
-        "furret",
-        "noctowl",
-        "ledian",
-        "ariados",
-        "crobat",
-        "lanturn",
-        "togetic",
-        "xatu",
-        "flaaffy",
-        "ampharos",
-        "bellossom",
-        "marill",
-        "azumarill",
-        "sudowoodo",
-        "politoed",
-        "skiploom",
-        "jumpluff",
-        "sunflora",
-        "quagsire",
-        "espeon",
-        "umbreon",
-        "slowking",
-        "wobbuffet",
-        "forretress",
-        "steelix",
-        "granbull",
-        "scizor",
-        "ursaring",
-        "magcargo",
-        "piloswine",
-        "octillery",
-        "mantine",
-        "houndoom",
-        "kingdra",
-        "donphan",
-        "porygon2",
-        "hitmontop",
-        "blissey",
-        "pupitar",
-        "tyranitar"
+        {
+          "numero": 152,
+          "pokemon": "chikorita",
+          "tipos": [
+            "grass"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 153,
+          "pokemon": "bayleef",
+          "tipos": [
+            "grass"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 154,
+          "pokemon": "meganium",
+          "tipos": [
+            "grass"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 155,
+          "pokemon": "cyndaquil",
+          "tipos": [
+            "fire"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 156,
+          "pokemon": "quilava",
+          "tipos": [
+            "fire"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 157,
+          "pokemon": "typhlosion",
+          "tipos": [
+            "fire"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 158,
+          "pokemon": "totodile",
+          "tipos": [
+            "water"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 159,
+          "pokemon": "croconaw",
+          "tipos": [
+            "water"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 160,
+          "pokemon": "feraligatr",
+          "tipos": [
+            "water"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 161,
+          "pokemon": "sentret",
+          "tipos": [
+            "normal"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 162,
+          "pokemon": "furret",
+          "tipos": [
+            "normal"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 163,
+          "pokemon": "hoothoot",
+          "tipos": [
+            "normal",
+            "flying"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 164,
+          "pokemon": "noctowl",
+          "tipos": [
+            "normal",
+            "flying"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 165,
+          "pokemon": "ledyba",
+          "tipos": [
+            "bug",
+            "flying"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 166,
+          "pokemon": "ledian",
+          "tipos": [
+            "bug",
+            "flying"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 167,
+          "pokemon": "spinarak",
+          "tipos": [
+            "bug",
+            "poison"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 168,
+          "pokemon": "ariados",
+          "tipos": [
+            "bug",
+            "poison"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 169,
+          "pokemon": "crobat",
+          "tipos": [
+            "poison",
+            "flying"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 170,
+          "pokemon": "chinchou",
+          "tipos": [
+            "water",
+            "electric"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 171,
+          "pokemon": "lanturn",
+          "tipos": [
+            "water",
+            "electric"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 172,
+          "pokemon": "pichu",
+          "tipos": [
+            "electric"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 173,
+          "pokemon": "cleffa",
+          "tipos": [
+            "fairy"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 174,
+          "pokemon": "igglybuff",
+          "tipos": [
+            "normal",
+            "fairy"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 175,
+          "pokemon": "togepi",
+          "tipos": [
+            "fairy"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 176,
+          "pokemon": "togetic",
+          "tipos": [
+            "fairy",
+            "flying"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 177,
+          "pokemon": "natu",
+          "tipos": [
+            "psychic",
+            "flying"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 178,
+          "pokemon": "xatu",
+          "tipos": [
+            "psychic",
+            "flying"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 179,
+          "pokemon": "mareep",
+          "tipos": [
+            "electric"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 180,
+          "pokemon": "flaaffy",
+          "tipos": [
+            "electric"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 181,
+          "pokemon": "ampharos",
+          "tipos": [
+            "electric"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 182,
+          "pokemon": "bellossom",
+          "tipos": [
+            "grass"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 183,
+          "pokemon": "marill",
+          "tipos": [
+            "water",
+            "fairy"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 184,
+          "pokemon": "azumarill",
+          "tipos": [
+            "water",
+            "fairy"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 185,
+          "pokemon": "sudowoodo",
+          "tipos": [
+            "rock"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 186,
+          "pokemon": "politoed",
+          "tipos": [
+            "water"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 187,
+          "pokemon": "hoppip",
+          "tipos": [
+            "grass",
+            "flying"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 188,
+          "pokemon": "skiploom",
+          "tipos": [
+            "grass",
+            "flying"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 189,
+          "pokemon": "jumpluff",
+          "tipos": [
+            "grass",
+            "flying"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 190,
+          "pokemon": "aipom",
+          "tipos": [
+            "normal"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 191,
+          "pokemon": "sunkern",
+          "tipos": [
+            "grass"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 192,
+          "pokemon": "sunflora",
+          "tipos": [
+            "grass"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 193,
+          "pokemon": "yanma",
+          "tipos": [
+            "bug",
+            "flying"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 194,
+          "pokemon": "wooper",
+          "tipos": [
+            "water",
+            "ground"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 195,
+          "pokemon": "quagsire",
+          "tipos": [
+            "water",
+            "ground"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 196,
+          "pokemon": "espeon",
+          "tipos": [
+            "psychic"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 197,
+          "pokemon": "umbreon",
+          "tipos": [
+            "dark"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 198,
+          "pokemon": "murkrow",
+          "tipos": [
+            "dark",
+            "flying"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 199,
+          "pokemon": "slowking",
+          "tipos": [
+            "water",
+            "psychic"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 200,
+          "pokemon": "misdreavus",
+          "tipos": [
+            "ghost"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 201,
+          "pokemon": "unown",
+          "tipos": [
+            "psychic"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 202,
+          "pokemon": "wobbuffet",
+          "tipos": [
+            "psychic"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 203,
+          "pokemon": "girafarig",
+          "tipos": [
+            "normal",
+            "psychic"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 204,
+          "pokemon": "pineco",
+          "tipos": [
+            "bug"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 205,
+          "pokemon": "forretress",
+          "tipos": [
+            "bug",
+            "steel"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 206,
+          "pokemon": "dunsparce",
+          "tipos": [
+            "normal"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 207,
+          "pokemon": "gligar",
+          "tipos": [
+            "ground",
+            "flying"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 208,
+          "pokemon": "steelix",
+          "tipos": [
+            "steel",
+            "ground"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 209,
+          "pokemon": "snubbull",
+          "tipos": [
+            "fairy"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 210,
+          "pokemon": "granbull",
+          "tipos": [
+            "fairy"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 211,
+          "pokemon": "qwilfish",
+          "tipos": [
+            "water",
+            "poison"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 212,
+          "pokemon": "scizor",
+          "tipos": [
+            "bug",
+            "steel"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 213,
+          "pokemon": "shuckle",
+          "tipos": [
+            "bug",
+            "rock"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 214,
+          "pokemon": "heracross",
+          "tipos": [
+            "bug",
+            "fighting"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 215,
+          "pokemon": "sneasel",
+          "tipos": [
+            "dark",
+            "ice"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 216,
+          "pokemon": "teddiursa",
+          "tipos": [
+            "normal"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 217,
+          "pokemon": "ursaring",
+          "tipos": [
+            "normal"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 218,
+          "pokemon": "slugma",
+          "tipos": [
+            "fire"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 219,
+          "pokemon": "magcargo",
+          "tipos": [
+            "fire",
+            "rock"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 220,
+          "pokemon": "swinub",
+          "tipos": [
+            "ice",
+            "ground"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 221,
+          "pokemon": "piloswine",
+          "tipos": [
+            "ice",
+            "ground"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 222,
+          "pokemon": "corsola",
+          "tipos": [
+            "water",
+            "rock"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 223,
+          "pokemon": "remoraid",
+          "tipos": [
+            "water"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 224,
+          "pokemon": "octillery",
+          "tipos": [
+            "water"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 225,
+          "pokemon": "delibird",
+          "tipos": [
+            "ice",
+            "flying"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 226,
+          "pokemon": "mantine",
+          "tipos": [
+            "water",
+            "flying"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 227,
+          "pokemon": "skarmory",
+          "tipos": [
+            "steel",
+            "flying"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 228,
+          "pokemon": "houndour",
+          "tipos": [
+            "dark",
+            "fire"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 229,
+          "pokemon": "houndoom",
+          "tipos": [
+            "dark",
+            "fire"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 230,
+          "pokemon": "kingdra",
+          "tipos": [
+            "water",
+            "dragon"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 231,
+          "pokemon": "phanpy",
+          "tipos": [
+            "ground"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 232,
+          "pokemon": "donphan",
+          "tipos": [
+            "ground"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 233,
+          "pokemon": "porygon2",
+          "tipos": [
+            "normal"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 234,
+          "pokemon": "stantler",
+          "tipos": [
+            "normal"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 235,
+          "pokemon": "smeargle",
+          "tipos": [
+            "normal"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 236,
+          "pokemon": "tyrogue",
+          "tipos": [
+            "fighting"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 237,
+          "pokemon": "hitmontop",
+          "tipos": [
+            "fighting"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 238,
+          "pokemon": "smoochum",
+          "tipos": [
+            "ice",
+            "psychic"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 239,
+          "pokemon": "elekid",
+          "tipos": [
+            "electric"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 240,
+          "pokemon": "magby",
+          "tipos": [
+            "fire"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 241,
+          "pokemon": "miltank",
+          "tipos": [
+            "normal"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 242,
+          "pokemon": "blissey",
+          "tipos": [
+            "normal"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 243,
+          "pokemon": "raikou",
+          "tipos": [
+            "electric"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 244,
+          "pokemon": "entei",
+          "tipos": [
+            "fire"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 245,
+          "pokemon": "suicune",
+          "tipos": [
+            "water"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 246,
+          "pokemon": "larvitar",
+          "tipos": [
+            "rock",
+            "ground"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 247,
+          "pokemon": "pupitar",
+          "tipos": [
+            "rock",
+            "ground"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 248,
+          "pokemon": "tyranitar",
+          "tipos": [
+            "rock",
+            "dark"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 249,
+          "pokemon": "lugia",
+          "tipos": [
+            "psychic",
+            "flying"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 250,
+          "pokemon": "ho-oh",
+          "tipos": [
+            "fire",
+            "flying"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 251,
+          "pokemon": "celebi",
+          "tipos": [
+            "psychic",
+            "grass"
+          ]
+        }
       ]
     ]
   },
@@ -268,141 +2388,1285 @@
     "geracao": "hoenn",
     "pokemons": [
       [
-        "treecko",
-        "torchic",
-        "mudkip",
-        "poochyena",
-        "zigzagoon",
-        "wurmple",
-        "lotad",
-        "seedot",
-        "taillow",
-        "wingull",
-        "ralts",
-        "surskit",
-        "shroomish",
-        "slakoth",
-        "nincada",
-        "whismur",
-        "makuhita",
-        "azurill",
-        "nosepass",
-        "skitty",
-        "sableye",
-        "mawile",
-        "aron",
-        "meditite",
-        "electrike",
-        "plusle",
-        "minun",
-        "volbeat",
-        "illumise",
-        "gulpin",
-        "carvanha",
-        "wailmer",
-        "numel",
-        "torkoal",
-        "spoink",
-        "spinda",
-        "trapinch",
-        "cacnea",
-        "swablu",
-        "zangoose",
-        "seviper",
-        "lunatone",
-        "solrock",
-        "barboach",
-        "corphish",
-        "baltoy",
-        "lileep",
-        "anorith",
-        "feebas",
-        "castform",
-        "kecleon",
-        "shuppet",
-        "duskull",
-        "tropius",
-        "absol",
-        "wynaut",
-        "snorunt",
-        "spheal",
-        "clamperl",
-        "relicanth",
-        "luvdisc",
-        "bagon",
-        "beldum",
-        "regirock",
-        "regice",
-        "registeel",
-        "latias",
-        "latios",
-        "kyogre",
-        "groudon",
-        "rayquaza",
-        "jirachi",
-        "deoxys",
-        "grovyle",
-        "sceptile",
-        "combusken",
-        "blaziken",
-        "marshtomp",
-        "swampert",
-        "mightyena",
-        "linoone",
-        "silcoon",
-        "beautifly",
-        "cascoon",
-        "dustox",
-        "lombre",
-        "ludicolo",
-        "nuzleaf",
-        "shiftry",
-        "swellow",
-        "pelipper",
-        "kirlia",
-        "gardevoir",
-        "masquerain",
-        "breloom",
-        "vigoroth",
-        "slaking",
-        "ninjask",
-        "shedinja",
-        "loudred",
-        "exploud",
-        "hariyama",
-        "delcatty",
-        "lairon",
-        "aggron",
-        "medicham",
-        "manectric",
-        "roselia",
-        "swalot",
-        "sharpedo",
-        "wailord",
-        "camerupt",
-        "grumpig",
-        "vibrava",
-        "flygon",
-        "cacturne",
-        "altaria",
-        "whiscash",
-        "crawdaunt",
-        "claydol",
-        "cradily",
-        "armaldo",
-        "milotic",
-        "banette",
-        "dusclops",
-        "chimecho",
-        "glalie",
-        "sealeo",
-        "walrein",
-        "huntail",
-        "gorebyss",
-        "shelgon",
-        "salamence",
-        "metang",
-        "metagross"
+        {
+          "numero": 252,
+          "pokemon": "treecko",
+          "tipos": [
+            "grass"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 253,
+          "pokemon": "grovyle",
+          "tipos": [
+            "grass"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 254,
+          "pokemon": "sceptile",
+          "tipos": [
+            "grass"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 255,
+          "pokemon": "torchic",
+          "tipos": [
+            "fire"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 256,
+          "pokemon": "combusken",
+          "tipos": [
+            "fire",
+            "fighting"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 257,
+          "pokemon": "blaziken",
+          "tipos": [
+            "fire",
+            "fighting"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 258,
+          "pokemon": "mudkip",
+          "tipos": [
+            "water"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 259,
+          "pokemon": "marshtomp",
+          "tipos": [
+            "water",
+            "ground"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 260,
+          "pokemon": "swampert",
+          "tipos": [
+            "water",
+            "ground"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 261,
+          "pokemon": "poochyena",
+          "tipos": [
+            "dark"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 262,
+          "pokemon": "mightyena",
+          "tipos": [
+            "dark"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 263,
+          "pokemon": "zigzagoon",
+          "tipos": [
+            "normal"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 264,
+          "pokemon": "linoone",
+          "tipos": [
+            "normal"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 265,
+          "pokemon": "wurmple",
+          "tipos": [
+            "bug"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 266,
+          "pokemon": "silcoon",
+          "tipos": [
+            "bug"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 267,
+          "pokemon": "beautifly",
+          "tipos": [
+            "bug",
+            "flying"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 268,
+          "pokemon": "cascoon",
+          "tipos": [
+            "bug"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 269,
+          "pokemon": "dustox",
+          "tipos": [
+            "bug",
+            "poison"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 270,
+          "pokemon": "lotad",
+          "tipos": [
+            "water",
+            "grass"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 271,
+          "pokemon": "lombre",
+          "tipos": [
+            "water",
+            "grass"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 272,
+          "pokemon": "ludicolo",
+          "tipos": [
+            "water",
+            "grass"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 273,
+          "pokemon": "seedot",
+          "tipos": [
+            "grass"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 274,
+          "pokemon": "nuzleaf",
+          "tipos": [
+            "grass",
+            "dark"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 275,
+          "pokemon": "shiftry",
+          "tipos": [
+            "grass",
+            "dark"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 276,
+          "pokemon": "taillow",
+          "tipos": [
+            "normal",
+            "flying"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 277,
+          "pokemon": "swellow",
+          "tipos": [
+            "normal",
+            "flying"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 278,
+          "pokemon": "wingull",
+          "tipos": [
+            "water",
+            "flying"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 279,
+          "pokemon": "pelipper",
+          "tipos": [
+            "water",
+            "flying"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 280,
+          "pokemon": "ralts",
+          "tipos": [
+            "psychic",
+            "fairy"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 281,
+          "pokemon": "kirlia",
+          "tipos": [
+            "psychic",
+            "fairy"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 282,
+          "pokemon": "gardevoir",
+          "tipos": [
+            "psychic",
+            "fairy"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 283,
+          "pokemon": "surskit",
+          "tipos": [
+            "bug",
+            "water"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 284,
+          "pokemon": "masquerain",
+          "tipos": [
+            "bug",
+            "flying"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 285,
+          "pokemon": "shroomish",
+          "tipos": [
+            "grass"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 286,
+          "pokemon": "breloom",
+          "tipos": [
+            "grass",
+            "fighting"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 287,
+          "pokemon": "slakoth",
+          "tipos": [
+            "normal"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 288,
+          "pokemon": "vigoroth",
+          "tipos": [
+            "normal"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 289,
+          "pokemon": "slaking",
+          "tipos": [
+            "normal"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 290,
+          "pokemon": "nincada",
+          "tipos": [
+            "bug",
+            "ground"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 291,
+          "pokemon": "ninjask",
+          "tipos": [
+            "bug",
+            "flying"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 292,
+          "pokemon": "shedinja",
+          "tipos": [
+            "bug",
+            "ghost"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 293,
+          "pokemon": "whismur",
+          "tipos": [
+            "normal"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 294,
+          "pokemon": "loudred",
+          "tipos": [
+            "normal"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 295,
+          "pokemon": "exploud",
+          "tipos": [
+            "normal"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 296,
+          "pokemon": "makuhita",
+          "tipos": [
+            "fighting"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 297,
+          "pokemon": "hariyama",
+          "tipos": [
+            "fighting"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 298,
+          "pokemon": "azurill",
+          "tipos": [
+            "normal",
+            "fairy"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 299,
+          "pokemon": "nosepass",
+          "tipos": [
+            "rock"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 300,
+          "pokemon": "skitty",
+          "tipos": [
+            "normal"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 301,
+          "pokemon": "delcatty",
+          "tipos": [
+            "normal"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 302,
+          "pokemon": "sableye",
+          "tipos": [
+            "dark",
+            "ghost"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 303,
+          "pokemon": "mawile",
+          "tipos": [
+            "steel",
+            "fairy"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 304,
+          "pokemon": "aron",
+          "tipos": [
+            "steel",
+            "rock"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 305,
+          "pokemon": "lairon",
+          "tipos": [
+            "steel",
+            "rock"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 306,
+          "pokemon": "aggron",
+          "tipos": [
+            "steel",
+            "rock"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 307,
+          "pokemon": "meditite",
+          "tipos": [
+            "fighting",
+            "psychic"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 308,
+          "pokemon": "medicham",
+          "tipos": [
+            "fighting",
+            "psychic"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 309,
+          "pokemon": "electrike",
+          "tipos": [
+            "electric"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 310,
+          "pokemon": "manectric",
+          "tipos": [
+            "electric"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 311,
+          "pokemon": "plusle",
+          "tipos": [
+            "electric"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 312,
+          "pokemon": "minun",
+          "tipos": [
+            "electric"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 313,
+          "pokemon": "volbeat",
+          "tipos": [
+            "bug"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 314,
+          "pokemon": "illumise",
+          "tipos": [
+            "bug"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 315,
+          "pokemon": "roselia",
+          "tipos": [
+            "grass",
+            "poison"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 316,
+          "pokemon": "gulpin",
+          "tipos": [
+            "poison"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 317,
+          "pokemon": "swalot",
+          "tipos": [
+            "poison"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 318,
+          "pokemon": "carvanha",
+          "tipos": [
+            "water",
+            "dark"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 319,
+          "pokemon": "sharpedo",
+          "tipos": [
+            "water",
+            "dark"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 320,
+          "pokemon": "wailmer",
+          "tipos": [
+            "water"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 321,
+          "pokemon": "wailord",
+          "tipos": [
+            "water"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 322,
+          "pokemon": "numel",
+          "tipos": [
+            "fire",
+            "ground"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 323,
+          "pokemon": "camerupt",
+          "tipos": [
+            "fire",
+            "ground"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 324,
+          "pokemon": "torkoal",
+          "tipos": [
+            "fire"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 325,
+          "pokemon": "spoink",
+          "tipos": [
+            "psychic"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 326,
+          "pokemon": "grumpig",
+          "tipos": [
+            "psychic"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 327,
+          "pokemon": "spinda",
+          "tipos": [
+            "normal"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 328,
+          "pokemon": "trapinch",
+          "tipos": [
+            "ground"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 329,
+          "pokemon": "vibrava",
+          "tipos": [
+            "ground",
+            "dragon"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 330,
+          "pokemon": "flygon",
+          "tipos": [
+            "ground",
+            "dragon"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 331,
+          "pokemon": "cacnea",
+          "tipos": [
+            "grass"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 332,
+          "pokemon": "cacturne",
+          "tipos": [
+            "grass",
+            "dark"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 333,
+          "pokemon": "swablu",
+          "tipos": [
+            "normal",
+            "flying"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 334,
+          "pokemon": "altaria",
+          "tipos": [
+            "dragon",
+            "flying"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 335,
+          "pokemon": "zangoose",
+          "tipos": [
+            "normal"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 336,
+          "pokemon": "seviper",
+          "tipos": [
+            "poison"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 337,
+          "pokemon": "lunatone",
+          "tipos": [
+            "rock",
+            "psychic"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 338,
+          "pokemon": "solrock",
+          "tipos": [
+            "rock",
+            "psychic"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 339,
+          "pokemon": "barboach",
+          "tipos": [
+            "water",
+            "ground"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 340,
+          "pokemon": "whiscash",
+          "tipos": [
+            "water",
+            "ground"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 341,
+          "pokemon": "corphish",
+          "tipos": [
+            "water"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 342,
+          "pokemon": "crawdaunt",
+          "tipos": [
+            "water",
+            "dark"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 343,
+          "pokemon": "baltoy",
+          "tipos": [
+            "ground",
+            "psychic"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 344,
+          "pokemon": "claydol",
+          "tipos": [
+            "ground",
+            "psychic"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 345,
+          "pokemon": "lileep",
+          "tipos": [
+            "rock",
+            "grass"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 346,
+          "pokemon": "cradily",
+          "tipos": [
+            "rock",
+            "grass"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 347,
+          "pokemon": "anorith",
+          "tipos": [
+            "rock",
+            "bug"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 348,
+          "pokemon": "armaldo",
+          "tipos": [
+            "rock",
+            "bug"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 349,
+          "pokemon": "feebas",
+          "tipos": [
+            "water"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 350,
+          "pokemon": "milotic",
+          "tipos": [
+            "water"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 351,
+          "pokemon": "castform",
+          "tipos": [
+            "normal"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 352,
+          "pokemon": "kecleon",
+          "tipos": [
+            "normal"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 353,
+          "pokemon": "shuppet",
+          "tipos": [
+            "ghost"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 354,
+          "pokemon": "banette",
+          "tipos": [
+            "ghost"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 355,
+          "pokemon": "duskull",
+          "tipos": [
+            "ghost"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 356,
+          "pokemon": "dusclops",
+          "tipos": [
+            "ghost"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 357,
+          "pokemon": "tropius",
+          "tipos": [
+            "grass",
+            "flying"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 358,
+          "pokemon": "chimecho",
+          "tipos": [
+            "psychic"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 359,
+          "pokemon": "absol",
+          "tipos": [
+            "dark"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 360,
+          "pokemon": "wynaut",
+          "tipos": [
+            "psychic"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 361,
+          "pokemon": "snorunt",
+          "tipos": [
+            "ice"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 362,
+          "pokemon": "glalie",
+          "tipos": [
+            "ice"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 363,
+          "pokemon": "spheal",
+          "tipos": [
+            "ice",
+            "water"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 364,
+          "pokemon": "sealeo",
+          "tipos": [
+            "ice",
+            "water"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 365,
+          "pokemon": "walrein",
+          "tipos": [
+            "ice",
+            "water"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 366,
+          "pokemon": "clamperl",
+          "tipos": [
+            "water"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 367,
+          "pokemon": "huntail",
+          "tipos": [
+            "water"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 368,
+          "pokemon": "gorebyss",
+          "tipos": [
+            "water"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 369,
+          "pokemon": "relicanth",
+          "tipos": [
+            "water",
+            "rock"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 370,
+          "pokemon": "luvdisc",
+          "tipos": [
+            "water"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 371,
+          "pokemon": "bagon",
+          "tipos": [
+            "dragon"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 372,
+          "pokemon": "shelgon",
+          "tipos": [
+            "dragon"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 373,
+          "pokemon": "salamence",
+          "tipos": [
+            "dragon",
+            "flying"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 374,
+          "pokemon": "beldum",
+          "tipos": [
+            "steel",
+            "psychic"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 375,
+          "pokemon": "metang",
+          "tipos": [
+            "steel",
+            "psychic"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 376,
+          "pokemon": "metagross",
+          "tipos": [
+            "steel",
+            "psychic"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 377,
+          "pokemon": "regirock",
+          "tipos": [
+            "rock"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 378,
+          "pokemon": "regice",
+          "tipos": [
+            "ice"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 379,
+          "pokemon": "registeel",
+          "tipos": [
+            "steel"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 380,
+          "pokemon": "latias",
+          "tipos": [
+            "dragon",
+            "psychic"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 381,
+          "pokemon": "latios",
+          "tipos": [
+            "dragon",
+            "psychic"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 382,
+          "pokemon": "kyogre",
+          "tipos": [
+            "water"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 383,
+          "pokemon": "groudon",
+          "tipos": [
+            "ground"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 384,
+          "pokemon": "rayquaza",
+          "tipos": [
+            "dragon",
+            "flying"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 385,
+          "pokemon": "jirachi",
+          "tipos": [
+            "steel",
+            "psychic"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 386,
+          "pokemon": "deoxys",
+          "tipos": [
+            "psychic"
+          ]
+        }
       ]
     ]
   },
@@ -410,113 +3674,1020 @@
     "geracao": "sinnoh",
     "pokemons": [
       [
-        "turtwig",
-        "chimchar",
-        "piplup",
-        "starly",
-        "bidoof",
-        "kricketot",
-        "shinx",
-        "budew",
-        "cranidos",
-        "shieldon",
-        "burmy",
-        "combee",
-        "pachirisu",
-        "buizel",
-        "cherubi",
-        "shellos",
-        "drifloon",
-        "buneary",
-        "glameow",
-        "chingling",
-        "stunky",
-        "bronzor",
-        "bonsly",
-        "mime-jr",
-        "happiny",
-        "chatot",
-        "spiritomb",
-        "gible",
-        "munchlax",
-        "riolu",
-        "hippopotas",
-        "skorupi",
-        "croagunk",
-        "carnivine",
-        "finneon",
-        "mantyke",
-        "snover",
-        "rotom",
-        "uxie",
-        "mesprit",
-        "azelf",
-        "dialga",
-        "palkia",
-        "heatran",
-        "regigigas",
-        "giratina",
-        "cresselia",
-        "phione",
-        "manaphy",
-        "darkrai",
-        "shaymin",
-        "arceus",
-        "grotle",
-        "torterra",
-        "monferno",
-        "infernape",
-        "prinplup",
-        "empoleon",
-        "staravia",
-        "staraptor",
-        "bibarel",
-        "kricketune",
-        "luxio",
-        "luxray",
-        "roserade",
-        "rampardos",
-        "bastiodon",
-        "wormadam",
-        "mothim",
-        "vespiquen",
-        "floatzel",
-        "cherrim",
-        "gastrodon",
-        "ambipom",
-        "drifblim",
-        "lopunny",
-        "mismagius",
-        "honchkrow",
-        "purugly",
-        "skuntank",
-        "bronzong",
-        "gabite",
-        "garchomp",
-        "lucario",
-        "hippowdon",
-        "drapion",
-        "toxicroak",
-        "lumineon",
-        "abomasnow",
-        "weavile",
-        "magnezone",
-        "lickilicky",
-        "rhyperior",
-        "tangrowth",
-        "electivire",
-        "magmortar",
-        "togekiss",
-        "yanmega",
-        "leafeon",
-        "glaceon",
-        "gliscor",
-        "mamoswine",
-        "porygon-z",
-        "gallade",
-        "probopass",
-        "dusknoir",
-        "froslass"
+        {
+          "numero": 387,
+          "pokemon": "turtwig",
+          "tipos": [
+            "grass"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 388,
+          "pokemon": "grotle",
+          "tipos": [
+            "grass"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 389,
+          "pokemon": "torterra",
+          "tipos": [
+            "grass",
+            "ground"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 390,
+          "pokemon": "chimchar",
+          "tipos": [
+            "fire"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 391,
+          "pokemon": "monferno",
+          "tipos": [
+            "fire",
+            "fighting"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 392,
+          "pokemon": "infernape",
+          "tipos": [
+            "fire",
+            "fighting"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 393,
+          "pokemon": "piplup",
+          "tipos": [
+            "water"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 394,
+          "pokemon": "prinplup",
+          "tipos": [
+            "water"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 395,
+          "pokemon": "empoleon",
+          "tipos": [
+            "water",
+            "steel"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 396,
+          "pokemon": "starly",
+          "tipos": [
+            "normal",
+            "flying"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 397,
+          "pokemon": "staravia",
+          "tipos": [
+            "normal",
+            "flying"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 398,
+          "pokemon": "staraptor",
+          "tipos": [
+            "normal",
+            "flying"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 399,
+          "pokemon": "bidoof",
+          "tipos": [
+            "normal"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 400,
+          "pokemon": "bibarel",
+          "tipos": [
+            "normal",
+            "water"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 401,
+          "pokemon": "kricketot",
+          "tipos": [
+            "bug"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 402,
+          "pokemon": "kricketune",
+          "tipos": [
+            "bug"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 403,
+          "pokemon": "shinx",
+          "tipos": [
+            "electric"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 404,
+          "pokemon": "luxio",
+          "tipos": [
+            "electric"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 405,
+          "pokemon": "luxray",
+          "tipos": [
+            "electric"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 406,
+          "pokemon": "budew",
+          "tipos": [
+            "grass",
+            "poison"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 407,
+          "pokemon": "roserade",
+          "tipos": [
+            "grass",
+            "poison"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 408,
+          "pokemon": "cranidos",
+          "tipos": [
+            "rock"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 409,
+          "pokemon": "rampardos",
+          "tipos": [
+            "rock"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 410,
+          "pokemon": "shieldon",
+          "tipos": [
+            "rock",
+            "steel"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 411,
+          "pokemon": "bastiodon",
+          "tipos": [
+            "rock",
+            "steel"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 412,
+          "pokemon": "burmy",
+          "tipos": [
+            "bug"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 413,
+          "pokemon": "wormadam",
+          "tipos": [
+            "bug",
+            "grass"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 414,
+          "pokemon": "mothim",
+          "tipos": [
+            "bug",
+            "flying"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 415,
+          "pokemon": "combee",
+          "tipos": [
+            "bug",
+            "flying"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 416,
+          "pokemon": "vespiquen",
+          "tipos": [
+            "bug",
+            "flying"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 417,
+          "pokemon": "pachirisu",
+          "tipos": [
+            "electric"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 418,
+          "pokemon": "buizel",
+          "tipos": [
+            "water"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 419,
+          "pokemon": "floatzel",
+          "tipos": [
+            "water"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 420,
+          "pokemon": "cherubi",
+          "tipos": [
+            "grass"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 421,
+          "pokemon": "cherrim",
+          "tipos": [
+            "grass"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 422,
+          "pokemon": "shellos",
+          "tipos": [
+            "water"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 423,
+          "pokemon": "gastrodon",
+          "tipos": [
+            "water",
+            "ground"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 424,
+          "pokemon": "ambipom",
+          "tipos": [
+            "normal"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 425,
+          "pokemon": "drifloon",
+          "tipos": [
+            "ghost",
+            "flying"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 426,
+          "pokemon": "drifblim",
+          "tipos": [
+            "ghost",
+            "flying"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 427,
+          "pokemon": "buneary",
+          "tipos": [
+            "normal"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 428,
+          "pokemon": "lopunny",
+          "tipos": [
+            "normal"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 429,
+          "pokemon": "mismagius",
+          "tipos": [
+            "ghost"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 430,
+          "pokemon": "honchkrow",
+          "tipos": [
+            "dark",
+            "flying"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 431,
+          "pokemon": "glameow",
+          "tipos": [
+            "normal"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 432,
+          "pokemon": "purugly",
+          "tipos": [
+            "normal"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 433,
+          "pokemon": "chingling",
+          "tipos": [
+            "psychic"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 434,
+          "pokemon": "stunky",
+          "tipos": [
+            "poison",
+            "dark"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 435,
+          "pokemon": "skuntank",
+          "tipos": [
+            "poison",
+            "dark"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 436,
+          "pokemon": "bronzor",
+          "tipos": [
+            "steel",
+            "psychic"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 437,
+          "pokemon": "bronzong",
+          "tipos": [
+            "steel",
+            "psychic"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 438,
+          "pokemon": "bonsly",
+          "tipos": [
+            "rock"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 439,
+          "pokemon": "mime-jr",
+          "tipos": [
+            "psychic",
+            "fairy"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 440,
+          "pokemon": "happiny",
+          "tipos": [
+            "normal"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 441,
+          "pokemon": "chatot",
+          "tipos": [
+            "normal",
+            "flying"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 442,
+          "pokemon": "spiritomb",
+          "tipos": [
+            "ghost",
+            "dark"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 443,
+          "pokemon": "gible",
+          "tipos": [
+            "dragon",
+            "ground"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 444,
+          "pokemon": "gabite",
+          "tipos": [
+            "dragon",
+            "ground"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 445,
+          "pokemon": "garchomp",
+          "tipos": [
+            "dragon",
+            "ground"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 446,
+          "pokemon": "munchlax",
+          "tipos": [
+            "normal"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 447,
+          "pokemon": "riolu",
+          "tipos": [
+            "fighting"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 448,
+          "pokemon": "lucario",
+          "tipos": [
+            "fighting",
+            "steel"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 449,
+          "pokemon": "hippopotas",
+          "tipos": [
+            "ground"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 450,
+          "pokemon": "hippowdon",
+          "tipos": [
+            "ground"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 451,
+          "pokemon": "skorupi",
+          "tipos": [
+            "poison",
+            "bug"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 452,
+          "pokemon": "drapion",
+          "tipos": [
+            "poison",
+            "dark"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 453,
+          "pokemon": "croagunk",
+          "tipos": [
+            "poison",
+            "fighting"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 454,
+          "pokemon": "toxicroak",
+          "tipos": [
+            "poison",
+            "fighting"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 455,
+          "pokemon": "carnivine",
+          "tipos": [
+            "grass"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 456,
+          "pokemon": "finneon",
+          "tipos": [
+            "water"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 457,
+          "pokemon": "lumineon",
+          "tipos": [
+            "water"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 458,
+          "pokemon": "mantyke",
+          "tipos": [
+            "water",
+            "flying"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 459,
+          "pokemon": "snover",
+          "tipos": [
+            "grass",
+            "ice"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 460,
+          "pokemon": "abomasnow",
+          "tipos": [
+            "grass",
+            "ice"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 461,
+          "pokemon": "weavile",
+          "tipos": [
+            "dark",
+            "ice"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 462,
+          "pokemon": "magnezone",
+          "tipos": [
+            "electric",
+            "steel"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 463,
+          "pokemon": "lickilicky",
+          "tipos": [
+            "normal"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 464,
+          "pokemon": "rhyperior",
+          "tipos": [
+            "ground",
+            "rock"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 465,
+          "pokemon": "tangrowth",
+          "tipos": [
+            "grass"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 466,
+          "pokemon": "electivire",
+          "tipos": [
+            "electric"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 467,
+          "pokemon": "magmortar",
+          "tipos": [
+            "fire"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 468,
+          "pokemon": "togekiss",
+          "tipos": [
+            "fairy",
+            "flying"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 469,
+          "pokemon": "yanmega",
+          "tipos": [
+            "bug",
+            "flying"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 470,
+          "pokemon": "leafeon",
+          "tipos": [
+            "grass"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 471,
+          "pokemon": "glaceon",
+          "tipos": [
+            "ice"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 472,
+          "pokemon": "gliscor",
+          "tipos": [
+            "ground",
+            "flying"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 473,
+          "pokemon": "mamoswine",
+          "tipos": [
+            "ice",
+            "ground"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 474,
+          "pokemon": "porygon-z",
+          "tipos": [
+            "normal"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 475,
+          "pokemon": "gallade",
+          "tipos": [
+            "psychic",
+            "fighting"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 476,
+          "pokemon": "probopass",
+          "tipos": [
+            "rock",
+            "steel"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 477,
+          "pokemon": "dusknoir",
+          "tipos": [
+            "ghost"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 478,
+          "pokemon": "froslass",
+          "tipos": [
+            "ice",
+            "ghost"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 479,
+          "pokemon": "rotom",
+          "tipos": [
+            "electric",
+            "ghost"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 480,
+          "pokemon": "uxie",
+          "tipos": [
+            "psychic"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 481,
+          "pokemon": "mesprit",
+          "tipos": [
+            "psychic"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 482,
+          "pokemon": "azelf",
+          "tipos": [
+            "psychic"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 483,
+          "pokemon": "dialga",
+          "tipos": [
+            "steel",
+            "dragon"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 484,
+          "pokemon": "palkia",
+          "tipos": [
+            "water",
+            "dragon"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 485,
+          "pokemon": "heatran",
+          "tipos": [
+            "fire",
+            "steel"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 486,
+          "pokemon": "regigigas",
+          "tipos": [
+            "normal"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 487,
+          "pokemon": "giratina",
+          "tipos": [
+            "ghost",
+            "dragon"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 488,
+          "pokemon": "cresselia",
+          "tipos": [
+            "psychic"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 489,
+          "pokemon": "phione",
+          "tipos": [
+            "water"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 490,
+          "pokemon": "manaphy",
+          "tipos": [
+            "water"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 491,
+          "pokemon": "darkrai",
+          "tipos": [
+            "dark"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 492,
+          "pokemon": "shaymin",
+          "tipos": [
+            "grass"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 493,
+          "pokemon": "arceus",
+          "tipos": [
+            "normal"
+          ]
+        }
       ]
     ]
   },
@@ -524,162 +4695,1482 @@
     "geracao": "unova",
     "pokemons": [
       [
-        "victini",
-        "snivy",
-        "tepig",
-        "oshawott",
-        "patrat",
-        "lillipup",
-        "purrloin",
-        "pansage",
-        "pansear",
-        "panpour",
-        "munna",
-        "pidove",
-        "blitzle",
-        "roggenrola",
-        "woobat",
-        "drilbur",
-        "audino",
-        "timburr",
-        "tympole",
-        "throh",
-        "sawk",
-        "sewaddle",
-        "venipede",
-        "cottonee",
-        "petilil",
-        "basculin",
-        "sandile",
-        "darumaka",
-        "maractus",
-        "dwebble",
-        "scraggy",
-        "sigilyph",
-        "yamask",
-        "tirtouga",
-        "archen",
-        "trubbish",
-        "zorua",
-        "minccino",
-        "gothita",
-        "solosis",
-        "ducklett",
-        "vanillite",
-        "deerling",
-        "emolga",
-        "karrablast",
-        "foongus",
-        "frillish",
-        "alomomola",
-        "joltik",
-        "ferroseed",
-        "klink",
-        "tynamo",
-        "elgyem",
-        "litwick",
-        "axew",
-        "cubchoo",
-        "cryogonal",
-        "shelmet",
-        "stunfisk",
-        "mienfoo",
-        "druddigon",
-        "golett",
-        "pawniard",
-        "bouffalant",
-        "rufflet",
-        "vullaby",
-        "heatmor",
-        "durant",
-        "deino",
-        "larvesta",
-        "cobalion",
-        "terrakion",
-        "virizion",
-        "tornadus",
-        "thundurus",
-        "reshiram",
-        "zekrom",
-        "landorus",
-        "kyurem",
-        "keldeo",
-        "meloetta",
-        "genesect",
-        "servine",
-        "serperior",
-        "pignite",
-        "emboar",
-        "dewott",
-        "samurott",
-        "watchog",
-        "herdier",
-        "stoutland",
-        "liepard",
-        "simisage",
-        "simisear",
-        "simipour",
-        "musharna",
-        "tranquill",
-        "unfezant",
-        "zebstrika",
-        "boldore",
-        "gigalith",
-        "swoobat",
-        "excadrill",
-        "gurdurr",
-        "conkeldurr",
-        "palpitoad",
-        "seismitoad",
-        "swadloon",
-        "leavanny",
-        "whirlipede",
-        "scolipede",
-        "whimsicott",
-        "lilligant",
-        "krokorok",
-        "krookodile",
-        "darmanitan",
-        "crustle",
-        "scrafty",
-        "cofagrigus",
-        "carracosta",
-        "archeops",
-        "garbodor",
-        "zoroark",
-        "cinccino",
-        "gothorita",
-        "gothitelle",
-        "duosion",
-        "reuniclus",
-        "swanna",
-        "vanillish",
-        "vanilluxe",
-        "sawsbuck",
-        "escavalier",
-        "amoonguss",
-        "jellicent",
-        "galvantula",
-        "ferrothorn",
-        "klang",
-        "klinklang",
-        "eelektrik",
-        "eelektross",
-        "beheeyem",
-        "lampent",
-        "chandelure",
-        "fraxure",
-        "haxorus",
-        "beartic",
-        "accelgor",
-        "mienshao",
-        "golurk",
-        "bisharp",
-        "braviary",
-        "mandibuzz",
-        "zweilous",
-        "hydreigon",
-        "volcarona"
+        {
+          "numero": 494,
+          "pokemon": "victini",
+          "tipos": [
+            "psychic",
+            "fire"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 495,
+          "pokemon": "snivy",
+          "tipos": [
+            "grass"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 496,
+          "pokemon": "servine",
+          "tipos": [
+            "grass"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 497,
+          "pokemon": "serperior",
+          "tipos": [
+            "grass"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 498,
+          "pokemon": "tepig",
+          "tipos": [
+            "fire"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 499,
+          "pokemon": "pignite",
+          "tipos": [
+            "fire",
+            "fighting"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 500,
+          "pokemon": "emboar",
+          "tipos": [
+            "fire",
+            "fighting"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 501,
+          "pokemon": "oshawott",
+          "tipos": [
+            "water"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 502,
+          "pokemon": "dewott",
+          "tipos": [
+            "water"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 503,
+          "pokemon": "samurott",
+          "tipos": [
+            "water"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 504,
+          "pokemon": "patrat",
+          "tipos": [
+            "normal"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 505,
+          "pokemon": "watchog",
+          "tipos": [
+            "normal"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 506,
+          "pokemon": "lillipup",
+          "tipos": [
+            "normal"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 507,
+          "pokemon": "herdier",
+          "tipos": [
+            "normal"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 508,
+          "pokemon": "stoutland",
+          "tipos": [
+            "normal"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 509,
+          "pokemon": "purrloin",
+          "tipos": [
+            "dark"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 510,
+          "pokemon": "liepard",
+          "tipos": [
+            "dark"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 511,
+          "pokemon": "pansage",
+          "tipos": [
+            "grass"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 512,
+          "pokemon": "simisage",
+          "tipos": [
+            "grass"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 513,
+          "pokemon": "pansear",
+          "tipos": [
+            "fire"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 514,
+          "pokemon": "simisear",
+          "tipos": [
+            "fire"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 515,
+          "pokemon": "panpour",
+          "tipos": [
+            "water"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 516,
+          "pokemon": "simipour",
+          "tipos": [
+            "water"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 517,
+          "pokemon": "munna",
+          "tipos": [
+            "psychic"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 518,
+          "pokemon": "musharna",
+          "tipos": [
+            "psychic"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 519,
+          "pokemon": "pidove",
+          "tipos": [
+            "normal",
+            "flying"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 520,
+          "pokemon": "tranquill",
+          "tipos": [
+            "normal",
+            "flying"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 521,
+          "pokemon": "unfezant",
+          "tipos": [
+            "normal",
+            "flying"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 522,
+          "pokemon": "blitzle",
+          "tipos": [
+            "electric"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 523,
+          "pokemon": "zebstrika",
+          "tipos": [
+            "electric"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 524,
+          "pokemon": "roggenrola",
+          "tipos": [
+            "rock"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 525,
+          "pokemon": "boldore",
+          "tipos": [
+            "rock"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 526,
+          "pokemon": "gigalith",
+          "tipos": [
+            "rock"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 527,
+          "pokemon": "woobat",
+          "tipos": [
+            "psychic",
+            "flying"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 528,
+          "pokemon": "swoobat",
+          "tipos": [
+            "psychic",
+            "flying"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 529,
+          "pokemon": "drilbur",
+          "tipos": [
+            "ground"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 530,
+          "pokemon": "excadrill",
+          "tipos": [
+            "ground",
+            "steel"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 531,
+          "pokemon": "audino",
+          "tipos": [
+            "normal"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 532,
+          "pokemon": "timburr",
+          "tipos": [
+            "fighting"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 533,
+          "pokemon": "gurdurr",
+          "tipos": [
+            "fighting"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 534,
+          "pokemon": "conkeldurr",
+          "tipos": [
+            "fighting"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 535,
+          "pokemon": "tympole",
+          "tipos": [
+            "water"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 536,
+          "pokemon": "palpitoad",
+          "tipos": [
+            "water",
+            "ground"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 537,
+          "pokemon": "seismitoad",
+          "tipos": [
+            "water",
+            "ground"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 538,
+          "pokemon": "throh",
+          "tipos": [
+            "fighting"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 539,
+          "pokemon": "sawk",
+          "tipos": [
+            "fighting"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 540,
+          "pokemon": "sewaddle",
+          "tipos": [
+            "bug",
+            "grass"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 541,
+          "pokemon": "swadloon",
+          "tipos": [
+            "bug",
+            "grass"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 542,
+          "pokemon": "leavanny",
+          "tipos": [
+            "bug",
+            "grass"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 543,
+          "pokemon": "venipede",
+          "tipos": [
+            "bug",
+            "poison"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 544,
+          "pokemon": "whirlipede",
+          "tipos": [
+            "bug",
+            "poison"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 545,
+          "pokemon": "scolipede",
+          "tipos": [
+            "bug",
+            "poison"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 546,
+          "pokemon": "cottonee",
+          "tipos": [
+            "grass",
+            "fairy"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 547,
+          "pokemon": "whimsicott",
+          "tipos": [
+            "grass",
+            "fairy"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 548,
+          "pokemon": "petilil",
+          "tipos": [
+            "grass"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 549,
+          "pokemon": "lilligant",
+          "tipos": [
+            "grass"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 550,
+          "pokemon": "basculin",
+          "tipos": [
+            "water"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 551,
+          "pokemon": "sandile",
+          "tipos": [
+            "ground",
+            "dark"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 552,
+          "pokemon": "krokorok",
+          "tipos": [
+            "ground",
+            "dark"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 553,
+          "pokemon": "krookodile",
+          "tipos": [
+            "ground",
+            "dark"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 554,
+          "pokemon": "darumaka",
+          "tipos": [
+            "fire"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 555,
+          "pokemon": "darmanitan",
+          "tipos": [
+            "fire"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 556,
+          "pokemon": "maractus",
+          "tipos": [
+            "grass"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 557,
+          "pokemon": "dwebble",
+          "tipos": [
+            "bug",
+            "rock"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 558,
+          "pokemon": "crustle",
+          "tipos": [
+            "bug",
+            "rock"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 559,
+          "pokemon": "scraggy",
+          "tipos": [
+            "dark",
+            "fighting"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 560,
+          "pokemon": "scrafty",
+          "tipos": [
+            "dark",
+            "fighting"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 561,
+          "pokemon": "sigilyph",
+          "tipos": [
+            "psychic",
+            "flying"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 562,
+          "pokemon": "yamask",
+          "tipos": [
+            "ghost"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 563,
+          "pokemon": "cofagrigus",
+          "tipos": [
+            "ghost"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 564,
+          "pokemon": "tirtouga",
+          "tipos": [
+            "water",
+            "rock"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 565,
+          "pokemon": "carracosta",
+          "tipos": [
+            "water",
+            "rock"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 566,
+          "pokemon": "archen",
+          "tipos": [
+            "rock",
+            "flying"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 567,
+          "pokemon": "archeops",
+          "tipos": [
+            "rock",
+            "flying"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 568,
+          "pokemon": "trubbish",
+          "tipos": [
+            "poison"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 569,
+          "pokemon": "garbodor",
+          "tipos": [
+            "poison"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 570,
+          "pokemon": "zorua",
+          "tipos": [
+            "dark"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 571,
+          "pokemon": "zoroark",
+          "tipos": [
+            "dark"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 572,
+          "pokemon": "minccino",
+          "tipos": [
+            "normal"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 573,
+          "pokemon": "cinccino",
+          "tipos": [
+            "normal"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 574,
+          "pokemon": "gothita",
+          "tipos": [
+            "psychic"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 575,
+          "pokemon": "gothorita",
+          "tipos": [
+            "psychic"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 576,
+          "pokemon": "gothitelle",
+          "tipos": [
+            "psychic"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 577,
+          "pokemon": "solosis",
+          "tipos": [
+            "psychic"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 578,
+          "pokemon": "duosion",
+          "tipos": [
+            "psychic"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 579,
+          "pokemon": "reuniclus",
+          "tipos": [
+            "psychic"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 580,
+          "pokemon": "ducklett",
+          "tipos": [
+            "water",
+            "flying"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 581,
+          "pokemon": "swanna",
+          "tipos": [
+            "water",
+            "flying"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 582,
+          "pokemon": "vanillite",
+          "tipos": [
+            "ice"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 583,
+          "pokemon": "vanillish",
+          "tipos": [
+            "ice"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 584,
+          "pokemon": "vanilluxe",
+          "tipos": [
+            "ice"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 585,
+          "pokemon": "deerling",
+          "tipos": [
+            "normal",
+            "grass"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 586,
+          "pokemon": "sawsbuck",
+          "tipos": [
+            "normal",
+            "grass"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 587,
+          "pokemon": "emolga",
+          "tipos": [
+            "electric",
+            "flying"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 588,
+          "pokemon": "karrablast",
+          "tipos": [
+            "bug"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 589,
+          "pokemon": "escavalier",
+          "tipos": [
+            "bug",
+            "steel"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 590,
+          "pokemon": "foongus",
+          "tipos": [
+            "grass",
+            "poison"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 591,
+          "pokemon": "amoonguss",
+          "tipos": [
+            "grass",
+            "poison"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 592,
+          "pokemon": "frillish",
+          "tipos": [
+            "water",
+            "ghost"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 593,
+          "pokemon": "jellicent",
+          "tipos": [
+            "water",
+            "ghost"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 594,
+          "pokemon": "alomomola",
+          "tipos": [
+            "water"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 595,
+          "pokemon": "joltik",
+          "tipos": [
+            "bug",
+            "electric"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 596,
+          "pokemon": "galvantula",
+          "tipos": [
+            "bug",
+            "electric"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 597,
+          "pokemon": "ferroseed",
+          "tipos": [
+            "grass",
+            "steel"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 598,
+          "pokemon": "ferrothorn",
+          "tipos": [
+            "grass",
+            "steel"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 599,
+          "pokemon": "klink",
+          "tipos": [
+            "steel"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 600,
+          "pokemon": "klang",
+          "tipos": [
+            "steel"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 601,
+          "pokemon": "klinklang",
+          "tipos": [
+            "steel"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 602,
+          "pokemon": "tynamo",
+          "tipos": [
+            "electric"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 603,
+          "pokemon": "eelektrik",
+          "tipos": [
+            "electric"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 604,
+          "pokemon": "eelektross",
+          "tipos": [
+            "electric"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 605,
+          "pokemon": "elgyem",
+          "tipos": [
+            "psychic"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 606,
+          "pokemon": "beheeyem",
+          "tipos": [
+            "psychic"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 607,
+          "pokemon": "litwick",
+          "tipos": [
+            "ghost",
+            "fire"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 608,
+          "pokemon": "lampent",
+          "tipos": [
+            "ghost",
+            "fire"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 609,
+          "pokemon": "chandelure",
+          "tipos": [
+            "ghost",
+            "fire"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 610,
+          "pokemon": "axew",
+          "tipos": [
+            "dragon"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 611,
+          "pokemon": "fraxure",
+          "tipos": [
+            "dragon"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 612,
+          "pokemon": "haxorus",
+          "tipos": [
+            "dragon"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 613,
+          "pokemon": "cubchoo",
+          "tipos": [
+            "ice"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 614,
+          "pokemon": "beartic",
+          "tipos": [
+            "ice"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 615,
+          "pokemon": "cryogonal",
+          "tipos": [
+            "ice"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 616,
+          "pokemon": "shelmet",
+          "tipos": [
+            "bug"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 617,
+          "pokemon": "accelgor",
+          "tipos": [
+            "bug"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 618,
+          "pokemon": "stunfisk",
+          "tipos": [
+            "ground",
+            "electric"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 619,
+          "pokemon": "mienfoo",
+          "tipos": [
+            "fighting"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 620,
+          "pokemon": "mienshao",
+          "tipos": [
+            "fighting"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 621,
+          "pokemon": "druddigon",
+          "tipos": [
+            "dragon"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 622,
+          "pokemon": "golett",
+          "tipos": [
+            "ground",
+            "ghost"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 623,
+          "pokemon": "golurk",
+          "tipos": [
+            "ground",
+            "ghost"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 624,
+          "pokemon": "pawniard",
+          "tipos": [
+            "dark",
+            "steel"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 625,
+          "pokemon": "bisharp",
+          "tipos": [
+            "dark",
+            "steel"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 626,
+          "pokemon": "bouffalant",
+          "tipos": [
+            "normal"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 627,
+          "pokemon": "rufflet",
+          "tipos": [
+            "normal",
+            "flying"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 628,
+          "pokemon": "braviary",
+          "tipos": [
+            "normal",
+            "flying"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 629,
+          "pokemon": "vullaby",
+          "tipos": [
+            "dark",
+            "flying"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 630,
+          "pokemon": "mandibuzz",
+          "tipos": [
+            "dark",
+            "flying"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 631,
+          "pokemon": "heatmor",
+          "tipos": [
+            "fire"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 632,
+          "pokemon": "durant",
+          "tipos": [
+            "bug",
+            "steel"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 633,
+          "pokemon": "deino",
+          "tipos": [
+            "dark",
+            "dragon"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 634,
+          "pokemon": "zweilous",
+          "tipos": [
+            "dark",
+            "dragon"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 635,
+          "pokemon": "hydreigon",
+          "tipos": [
+            "dark",
+            "dragon"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 636,
+          "pokemon": "larvesta",
+          "tipos": [
+            "bug",
+            "fire"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 637,
+          "pokemon": "volcarona",
+          "tipos": [
+            "bug",
+            "fire"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 638,
+          "pokemon": "cobalion",
+          "tipos": [
+            "steel",
+            "fighting"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 639,
+          "pokemon": "terrakion",
+          "tipos": [
+            "rock",
+            "fighting"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 640,
+          "pokemon": "virizion",
+          "tipos": [
+            "grass",
+            "fighting"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 641,
+          "pokemon": "tornadus",
+          "tipos": [
+            "flying"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 642,
+          "pokemon": "thundurus",
+          "tipos": [
+            "electric",
+            "flying"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 643,
+          "pokemon": "reshiram",
+          "tipos": [
+            "dragon",
+            "fire"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 644,
+          "pokemon": "zekrom",
+          "tipos": [
+            "dragon",
+            "electric"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 645,
+          "pokemon": "landorus",
+          "tipos": [
+            "ground",
+            "flying"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 646,
+          "pokemon": "kyurem",
+          "tipos": [
+            "dragon",
+            "ice"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 647,
+          "pokemon": "keldeo",
+          "tipos": [
+            "water",
+            "fighting"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 648,
+          "pokemon": "meloetta",
+          "tipos": [
+            "normal",
+            "psychic"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 649,
+          "pokemon": "genesect",
+          "tipos": [
+            "bug",
+            "steel"
+          ]
+        }
       ]
     ]
   },
@@ -687,78 +6178,693 @@
     "geracao": "kalos",
     "pokemons": [
       [
-        "chespin",
-        "fennekin",
-        "froakie",
-        "bunnelby",
-        "fletchling",
-        "scatterbug",
-        "litleo",
-        "flabebe",
-        "skiddo",
-        "pancham",
-        "furfrou",
-        "espurr",
-        "honedge",
-        "spritzee",
-        "swirlix",
-        "inkay",
-        "binacle",
-        "skrelp",
-        "clauncher",
-        "helioptile",
-        "tyrunt",
-        "amaura",
-        "hawlucha",
-        "dedenne",
-        "carbink",
-        "goomy",
-        "klefki",
-        "phantump",
-        "pumpkaboo",
-        "bergmite",
-        "noibat",
-        "xerneas",
-        "yveltal",
-        "zygarde",
-        "diancie",
-        "hoopa",
-        "volcanion",
-        "quilladin",
-        "chesnaught",
-        "braixen",
-        "delphox",
-        "frogadier",
-        "greninja",
-        "diggersby",
-        "fletchinder",
-        "talonflame",
-        "spewpa",
-        "vivillon",
-        "pyroar",
-        "floette",
-        "florges",
-        "gogoat",
-        "pangoro",
-        "meowstic",
-        "doublade",
-        "aegislash",
-        "aromatisse",
-        "slurpuff",
-        "malamar",
-        "barbaracle",
-        "dragalge",
-        "clawitzer",
-        "heliolisk",
-        "tyrantrum",
-        "aurorus",
-        "sylveon",
-        "sliggoo",
-        "goodra",
-        "trevenant",
-        "gourgeist",
-        "avalugg",
-        "noivern"
+        {
+          "numero": 650,
+          "pokemon": "chespin",
+          "tipos": [
+            "grass"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 651,
+          "pokemon": "quilladin",
+          "tipos": [
+            "grass"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 652,
+          "pokemon": "chesnaught",
+          "tipos": [
+            "grass",
+            "fighting"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 653,
+          "pokemon": "fennekin",
+          "tipos": [
+            "fire"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 654,
+          "pokemon": "braixen",
+          "tipos": [
+            "fire"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 655,
+          "pokemon": "delphox",
+          "tipos": [
+            "fire",
+            "psychic"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 656,
+          "pokemon": "froakie",
+          "tipos": [
+            "water"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 657,
+          "pokemon": "frogadier",
+          "tipos": [
+            "water"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 658,
+          "pokemon": "greninja",
+          "tipos": [
+            "water",
+            "dark"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 659,
+          "pokemon": "bunnelby",
+          "tipos": [
+            "normal"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 660,
+          "pokemon": "diggersby",
+          "tipos": [
+            "normal",
+            "ground"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 661,
+          "pokemon": "fletchling",
+          "tipos": [
+            "normal",
+            "flying"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 662,
+          "pokemon": "fletchinder",
+          "tipos": [
+            "fire",
+            "flying"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 663,
+          "pokemon": "talonflame",
+          "tipos": [
+            "fire",
+            "flying"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 664,
+          "pokemon": "scatterbug",
+          "tipos": [
+            "bug"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 665,
+          "pokemon": "spewpa",
+          "tipos": [
+            "bug"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 666,
+          "pokemon": "vivillon",
+          "tipos": [
+            "bug",
+            "flying"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 667,
+          "pokemon": "litleo",
+          "tipos": [
+            "fire",
+            "normal"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 668,
+          "pokemon": "pyroar",
+          "tipos": [
+            "fire",
+            "normal"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 669,
+          "pokemon": "flabebe",
+          "tipos": [
+            "fairy"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 670,
+          "pokemon": "floette",
+          "tipos": [
+            "fairy"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 671,
+          "pokemon": "florges",
+          "tipos": [
+            "fairy"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 672,
+          "pokemon": "skiddo",
+          "tipos": [
+            "grass"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 673,
+          "pokemon": "gogoat",
+          "tipos": [
+            "grass"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 674,
+          "pokemon": "pancham",
+          "tipos": [
+            "fighting"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 675,
+          "pokemon": "pangoro",
+          "tipos": [
+            "fighting",
+            "dark"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 676,
+          "pokemon": "furfrou",
+          "tipos": [
+            "normal"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 677,
+          "pokemon": "espurr",
+          "tipos": [
+            "psychic"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 678,
+          "pokemon": "meowstic",
+          "tipos": [
+            "psychic"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 679,
+          "pokemon": "honedge",
+          "tipos": [
+            "steel",
+            "ghost"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 680,
+          "pokemon": "doublade",
+          "tipos": [
+            "steel",
+            "ghost"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 681,
+          "pokemon": "aegislash",
+          "tipos": [
+            "steel",
+            "ghost"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 682,
+          "pokemon": "spritzee",
+          "tipos": [
+            "fairy"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 683,
+          "pokemon": "aromatisse",
+          "tipos": [
+            "fairy"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 684,
+          "pokemon": "swirlix",
+          "tipos": [
+            "fairy"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 685,
+          "pokemon": "slurpuff",
+          "tipos": [
+            "fairy"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 686,
+          "pokemon": "inkay",
+          "tipos": [
+            "dark",
+            "psychic"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 687,
+          "pokemon": "malamar",
+          "tipos": [
+            "dark",
+            "psychic"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 688,
+          "pokemon": "binacle",
+          "tipos": [
+            "rock",
+            "water"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 689,
+          "pokemon": "barbaracle",
+          "tipos": [
+            "rock",
+            "water"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 690,
+          "pokemon": "skrelp",
+          "tipos": [
+            "poison",
+            "water"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 691,
+          "pokemon": "dragalge",
+          "tipos": [
+            "poison",
+            "dragon"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 692,
+          "pokemon": "clauncher",
+          "tipos": [
+            "water"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 693,
+          "pokemon": "clawitzer",
+          "tipos": [
+            "water"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 694,
+          "pokemon": "helioptile",
+          "tipos": [
+            "electric",
+            "normal"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 695,
+          "pokemon": "heliolisk",
+          "tipos": [
+            "electric",
+            "normal"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 696,
+          "pokemon": "tyrunt",
+          "tipos": [
+            "rock",
+            "dragon"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 697,
+          "pokemon": "tyrantrum",
+          "tipos": [
+            "rock",
+            "dragon"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 698,
+          "pokemon": "amaura",
+          "tipos": [
+            "rock",
+            "ice"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 699,
+          "pokemon": "aurorus",
+          "tipos": [
+            "rock",
+            "ice"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 700,
+          "pokemon": "sylveon",
+          "tipos": [
+            "fairy"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 701,
+          "pokemon": "hawlucha",
+          "tipos": [
+            "fighting",
+            "flying"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 702,
+          "pokemon": "dedenne",
+          "tipos": [
+            "electric",
+            "fairy"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 703,
+          "pokemon": "carbink",
+          "tipos": [
+            "rock",
+            "fairy"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 704,
+          "pokemon": "goomy",
+          "tipos": [
+            "dragon"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 705,
+          "pokemon": "sliggoo",
+          "tipos": [
+            "dragon"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 706,
+          "pokemon": "goodra",
+          "tipos": [
+            "dragon"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 707,
+          "pokemon": "klefki",
+          "tipos": [
+            "steel",
+            "fairy"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 708,
+          "pokemon": "phantump",
+          "tipos": [
+            "ghost",
+            "grass"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 709,
+          "pokemon": "trevenant",
+          "tipos": [
+            "ghost",
+            "grass"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 710,
+          "pokemon": "pumpkaboo",
+          "tipos": [
+            "ghost",
+            "grass"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 711,
+          "pokemon": "gourgeist",
+          "tipos": [
+            "ghost",
+            "grass"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 712,
+          "pokemon": "bergmite",
+          "tipos": [
+            "ice"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 713,
+          "pokemon": "avalugg",
+          "tipos": [
+            "ice"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 714,
+          "pokemon": "noibat",
+          "tipos": [
+            "flying",
+            "dragon"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 715,
+          "pokemon": "noivern",
+          "tipos": [
+            "flying",
+            "dragon"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 716,
+          "pokemon": "xerneas",
+          "tipos": [
+            "fairy"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 717,
+          "pokemon": "yveltal",
+          "tipos": [
+            "dark",
+            "flying"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 718,
+          "pokemon": "zygarde",
+          "tipos": [
+            "dragon",
+            "ground"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 719,
+          "pokemon": "diancie",
+          "tipos": [
+            "rock",
+            "fairy"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 720,
+          "pokemon": "hoopa",
+          "tipos": [
+            "psychic",
+            "ghost"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 721,
+          "pokemon": "volcanion",
+          "tipos": [
+            "fire",
+            "water"
+          ]
+        }
       ]
     ]
   },
@@ -766,94 +6872,851 @@
     "geracao": "alola",
     "pokemons": [
       [
-        "rowlet",
-        "litten",
-        "popplio",
-        "pikipek",
-        "yungoos",
-        "grubbin",
-        "crabrawler",
-        "oricorio",
-        "cutiefly",
-        "rockruff",
-        "wishiwashi",
-        "mareanie",
-        "mudbray",
-        "dewpider",
-        "fomantis",
-        "morelull",
-        "salandit",
-        "stufful",
-        "bounsweet",
-        "comfey",
-        "oranguru",
-        "passimian",
-        "wimpod",
-        "sandygast",
-        "pyukumuku",
-        "type-null",
-        "minior",
-        "komala",
-        "turtonator",
-        "togedemaru",
-        "mimikyu",
-        "bruxish",
-        "drampa",
-        "dhelmise",
-        "jangmo-o",
-        "tapu-koko",
-        "tapu-lele",
-        "tapu-bulu",
-        "tapu-fini",
-        "cosmog",
-        "nihilego",
-        "buzzwole",
-        "pheromosa",
-        "xurkitree",
-        "celesteela",
-        "kartana",
-        "guzzlord",
-        "necrozma",
-        "magearna",
-        "marshadow",
-        "poipole",
-        "stakataka",
-        "blacephalon",
-        "zeraora",
-        "meltan",
-        "dartrix",
-        "decidueye",
-        "torracat",
-        "incineroar",
-        "brionne",
-        "primarina",
-        "trumbeak",
-        "toucannon",
-        "gumshoos",
-        "charjabug",
-        "vikavolt",
-        "crabominable",
-        "ribombee",
-        "lycanroc",
-        "toxapex",
-        "mudsdale",
-        "araquanid",
-        "lurantis",
-        "shiinotic",
-        "salazzle",
-        "bewear",
-        "steenee",
-        "tsareena",
-        "golisopod",
-        "palossand",
-        "silvally",
-        "hakamo-o",
-        "kommo-o",
-        "cosmoem",
-        "solgaleo",
-        "lunala",
-        "naganadel",
-        "melmetal"
+        {
+          "numero": 722,
+          "pokemon": "rowlet",
+          "tipos": [
+            "grass",
+            "flying"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 723,
+          "pokemon": "dartrix",
+          "tipos": [
+            "grass",
+            "flying"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 724,
+          "pokemon": "decidueye",
+          "tipos": [
+            "grass",
+            "ghost"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 725,
+          "pokemon": "litten",
+          "tipos": [
+            "fire"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 726,
+          "pokemon": "torracat",
+          "tipos": [
+            "fire"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 727,
+          "pokemon": "incineroar",
+          "tipos": [
+            "fire",
+            "dark"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 728,
+          "pokemon": "popplio",
+          "tipos": [
+            "water"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 729,
+          "pokemon": "brionne",
+          "tipos": [
+            "water"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 730,
+          "pokemon": "primarina",
+          "tipos": [
+            "water",
+            "fairy"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 731,
+          "pokemon": "pikipek",
+          "tipos": [
+            "normal",
+            "flying"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 732,
+          "pokemon": "trumbeak",
+          "tipos": [
+            "normal",
+            "flying"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 733,
+          "pokemon": "toucannon",
+          "tipos": [
+            "normal",
+            "flying"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 734,
+          "pokemon": "yungoos",
+          "tipos": [
+            "normal"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 735,
+          "pokemon": "gumshoos",
+          "tipos": [
+            "normal"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 736,
+          "pokemon": "grubbin",
+          "tipos": [
+            "bug"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 737,
+          "pokemon": "charjabug",
+          "tipos": [
+            "bug",
+            "electric"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 738,
+          "pokemon": "vikavolt",
+          "tipos": [
+            "bug",
+            "electric"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 739,
+          "pokemon": "crabrawler",
+          "tipos": [
+            "fighting"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 740,
+          "pokemon": "crabominable",
+          "tipos": [
+            "fighting",
+            "ice"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 741,
+          "pokemon": "oricorio",
+          "tipos": [
+            "fire",
+            "flying"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 742,
+          "pokemon": "cutiefly",
+          "tipos": [
+            "bug",
+            "fairy"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 743,
+          "pokemon": "ribombee",
+          "tipos": [
+            "bug",
+            "fairy"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 744,
+          "pokemon": "rockruff",
+          "tipos": [
+            "rock"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 745,
+          "pokemon": "lycanroc",
+          "tipos": [
+            "rock"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 746,
+          "pokemon": "wishiwashi",
+          "tipos": [
+            "water"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 747,
+          "pokemon": "mareanie",
+          "tipos": [
+            "poison",
+            "water"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 748,
+          "pokemon": "toxapex",
+          "tipos": [
+            "poison",
+            "water"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 749,
+          "pokemon": "mudbray",
+          "tipos": [
+            "ground"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 750,
+          "pokemon": "mudsdale",
+          "tipos": [
+            "ground"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 751,
+          "pokemon": "dewpider",
+          "tipos": [
+            "water",
+            "bug"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 752,
+          "pokemon": "araquanid",
+          "tipos": [
+            "water",
+            "bug"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 753,
+          "pokemon": "fomantis",
+          "tipos": [
+            "grass"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 754,
+          "pokemon": "lurantis",
+          "tipos": [
+            "grass"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 755,
+          "pokemon": "morelull",
+          "tipos": [
+            "grass",
+            "fairy"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 756,
+          "pokemon": "shiinotic",
+          "tipos": [
+            "grass",
+            "fairy"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 757,
+          "pokemon": "salandit",
+          "tipos": [
+            "poison",
+            "fire"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 758,
+          "pokemon": "salazzle",
+          "tipos": [
+            "poison",
+            "fire"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 759,
+          "pokemon": "stufful",
+          "tipos": [
+            "normal",
+            "fighting"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 760,
+          "pokemon": "bewear",
+          "tipos": [
+            "normal",
+            "fighting"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 761,
+          "pokemon": "bounsweet",
+          "tipos": [
+            "grass"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 762,
+          "pokemon": "steenee",
+          "tipos": [
+            "grass"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 763,
+          "pokemon": "tsareena",
+          "tipos": [
+            "grass"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 764,
+          "pokemon": "comfey",
+          "tipos": [
+            "fairy"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 765,
+          "pokemon": "oranguru",
+          "tipos": [
+            "normal",
+            "psychic"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 766,
+          "pokemon": "passimian",
+          "tipos": [
+            "fighting"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 767,
+          "pokemon": "wimpod",
+          "tipos": [
+            "bug",
+            "water"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 768,
+          "pokemon": "golisopod",
+          "tipos": [
+            "bug",
+            "water"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 769,
+          "pokemon": "sandygast",
+          "tipos": [
+            "ghost",
+            "ground"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 770,
+          "pokemon": "palossand",
+          "tipos": [
+            "ghost",
+            "ground"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 771,
+          "pokemon": "pyukumuku",
+          "tipos": [
+            "water"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 772,
+          "pokemon": "type-null",
+          "tipos": [
+            "normal"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 773,
+          "pokemon": "silvally",
+          "tipos": [
+            "normal"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 774,
+          "pokemon": "minior",
+          "tipos": [
+            "rock",
+            "flying"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 775,
+          "pokemon": "komala",
+          "tipos": [
+            "normal"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 776,
+          "pokemon": "turtonator",
+          "tipos": [
+            "fire",
+            "dragon"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 777,
+          "pokemon": "togedemaru",
+          "tipos": [
+            "electric",
+            "steel"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 778,
+          "pokemon": "mimikyu",
+          "tipos": [
+            "ghost",
+            "fairy"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 779,
+          "pokemon": "bruxish",
+          "tipos": [
+            "water",
+            "psychic"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 780,
+          "pokemon": "drampa",
+          "tipos": [
+            "normal",
+            "dragon"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 781,
+          "pokemon": "dhelmise",
+          "tipos": [
+            "ghost",
+            "grass"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 782,
+          "pokemon": "jangmo-o",
+          "tipos": [
+            "dragon"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 783,
+          "pokemon": "hakamo-o",
+          "tipos": [
+            "dragon",
+            "fighting"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 784,
+          "pokemon": "kommo-o",
+          "tipos": [
+            "dragon",
+            "fighting"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 785,
+          "pokemon": "tapu-koko",
+          "tipos": [
+            "electric",
+            "fairy"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 786,
+          "pokemon": "tapu-lele",
+          "tipos": [
+            "psychic",
+            "fairy"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 787,
+          "pokemon": "tapu-bulu",
+          "tipos": [
+            "grass",
+            "fairy"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 788,
+          "pokemon": "tapu-fini",
+          "tipos": [
+            "water",
+            "fairy"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 789,
+          "pokemon": "cosmog",
+          "tipos": [
+            "psychic"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 790,
+          "pokemon": "cosmoem",
+          "tipos": [
+            "psychic"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 791,
+          "pokemon": "solgaleo",
+          "tipos": [
+            "psychic",
+            "steel"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 792,
+          "pokemon": "lunala",
+          "tipos": [
+            "psychic",
+            "ghost"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 793,
+          "pokemon": "nihilego",
+          "tipos": [
+            "rock",
+            "poison"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 794,
+          "pokemon": "buzzwole",
+          "tipos": [
+            "bug",
+            "fighting"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 795,
+          "pokemon": "pheromosa",
+          "tipos": [
+            "bug",
+            "fighting"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 796,
+          "pokemon": "xurkitree",
+          "tipos": [
+            "electric"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 797,
+          "pokemon": "celesteela",
+          "tipos": [
+            "steel",
+            "flying"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 798,
+          "pokemon": "kartana",
+          "tipos": [
+            "grass",
+            "steel"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 799,
+          "pokemon": "guzzlord",
+          "tipos": [
+            "dark",
+            "dragon"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 800,
+          "pokemon": "necrozma",
+          "tipos": [
+            "psychic"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 801,
+          "pokemon": "magearna",
+          "tipos": [
+            "steel",
+            "fairy"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 802,
+          "pokemon": "marshadow",
+          "tipos": [
+            "fighting",
+            "ghost"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 803,
+          "pokemon": "poipole",
+          "tipos": [
+            "poison"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 804,
+          "pokemon": "naganadel",
+          "tipos": [
+            "poison",
+            "dragon"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 805,
+          "pokemon": "stakataka",
+          "tipos": [
+            "rock",
+            "steel"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 806,
+          "pokemon": "blacephalon",
+          "tipos": [
+            "fire",
+            "ghost"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 807,
+          "pokemon": "zeraora",
+          "tipos": [
+            "electric"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 808,
+          "pokemon": "meltan",
+          "tipos": [
+            "steel"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 809,
+          "pokemon": "melmetal",
+          "tipos": [
+            "steel"
+          ]
+        }
       ]
     ]
   },
@@ -861,102 +7724,912 @@
     "geracao": "galar",
     "pokemons": [
       [
-        "grookey",
-        "scorbunny",
-        "sobble",
-        "skwovet",
-        "rookidee",
-        "blipbug",
-        "nickit",
-        "gossifleur",
-        "wooloo",
-        "chewtle",
-        "yamper",
-        "rolycoly",
-        "applin",
-        "silicobra",
-        "cramorant",
-        "arrokuda",
-        "toxel",
-        "sizzlipede",
-        "clobbopus",
-        "sinistea",
-        "hatenna",
-        "impidimp",
-        "milcery",
-        "falinks",
-        "pincurchin",
-        "snom",
-        "stonjourner",
-        "eiscue",
-        "indeedee",
-        "morpeko",
-        "cufant",
-        "dracozolt",
-        "arctozolt",
-        "dracovish",
-        "arctovish",
-        "duraludon",
-        "dreepy",
-        "zacian",
-        "zamazenta",
-        "eternatus",
-        "kubfu",
-        "zarude",
-        "regieleki",
-        "regidrago",
-        "glastrier",
-        "spectrier",
-        "calyrex",
-        "enamorus",
-        "thwackey",
-        "rillaboom",
-        "raboot",
-        "cinderace",
-        "drizzile",
-        "inteleon",
-        "greedent",
-        "corvisquire",
-        "corviknight",
-        "dottler",
-        "orbeetle",
-        "thievul",
-        "eldegoss",
-        "dubwool",
-        "drednaw",
-        "boltund",
-        "carkol",
-        "coalossal",
-        "flapple",
-        "appletun",
-        "sandaconda",
-        "barraskewda",
-        "toxtricity",
-        "centiskorch",
-        "grapploct",
-        "polteageist",
-        "hattrem",
-        "hatterene",
-        "morgrem",
-        "grimmsnarl",
-        "obstagoon",
-        "perrserker",
-        "cursola",
-        "sirfetchd",
-        "mr-rime",
-        "runerigus",
-        "alcremie",
-        "frosmoth",
-        "copperajah",
-        "drakloak",
-        "dragapult",
-        "urshifu",
-        "wyrdeer",
-        "kleavor",
-        "ursaluna",
-        "basculegion",
-        "sneasler",
-        "overqwil"
+        {
+          "numero": 810,
+          "pokemon": "grookey",
+          "tipos": [
+            "grass"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 811,
+          "pokemon": "thwackey",
+          "tipos": [
+            "grass"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 812,
+          "pokemon": "rillaboom",
+          "tipos": [
+            "grass"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 813,
+          "pokemon": "scorbunny",
+          "tipos": [
+            "fire"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 814,
+          "pokemon": "raboot",
+          "tipos": [
+            "fire"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 815,
+          "pokemon": "cinderace",
+          "tipos": [
+            "fire"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 816,
+          "pokemon": "sobble",
+          "tipos": [
+            "water"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 817,
+          "pokemon": "drizzile",
+          "tipos": [
+            "water"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 818,
+          "pokemon": "inteleon",
+          "tipos": [
+            "water"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 819,
+          "pokemon": "skwovet",
+          "tipos": [
+            "normal"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 820,
+          "pokemon": "greedent",
+          "tipos": [
+            "normal"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 821,
+          "pokemon": "rookidee",
+          "tipos": [
+            "flying"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 822,
+          "pokemon": "corvisquire",
+          "tipos": [
+            "flying"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 823,
+          "pokemon": "corviknight",
+          "tipos": [
+            "flying",
+            "steel"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 824,
+          "pokemon": "blipbug",
+          "tipos": [
+            "bug"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 825,
+          "pokemon": "dottler",
+          "tipos": [
+            "bug",
+            "psychic"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 826,
+          "pokemon": "orbeetle",
+          "tipos": [
+            "bug",
+            "psychic"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 827,
+          "pokemon": "nickit",
+          "tipos": [
+            "dark"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 828,
+          "pokemon": "thievul",
+          "tipos": [
+            "dark"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 829,
+          "pokemon": "gossifleur",
+          "tipos": [
+            "grass"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 830,
+          "pokemon": "eldegoss",
+          "tipos": [
+            "grass"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 831,
+          "pokemon": "wooloo",
+          "tipos": [
+            "normal"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 832,
+          "pokemon": "dubwool",
+          "tipos": [
+            "normal"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 833,
+          "pokemon": "chewtle",
+          "tipos": [
+            "water"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 834,
+          "pokemon": "drednaw",
+          "tipos": [
+            "water",
+            "rock"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 835,
+          "pokemon": "yamper",
+          "tipos": [
+            "electric"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 836,
+          "pokemon": "boltund",
+          "tipos": [
+            "electric"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 837,
+          "pokemon": "rolycoly",
+          "tipos": [
+            "rock"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 838,
+          "pokemon": "carkol",
+          "tipos": [
+            "rock",
+            "fire"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 839,
+          "pokemon": "coalossal",
+          "tipos": [
+            "rock",
+            "fire"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 840,
+          "pokemon": "applin",
+          "tipos": [
+            "grass",
+            "dragon"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 841,
+          "pokemon": "flapple",
+          "tipos": [
+            "grass",
+            "dragon"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 842,
+          "pokemon": "appletun",
+          "tipos": [
+            "grass",
+            "dragon"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 843,
+          "pokemon": "silicobra",
+          "tipos": [
+            "ground"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 844,
+          "pokemon": "sandaconda",
+          "tipos": [
+            "ground"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 845,
+          "pokemon": "cramorant",
+          "tipos": [
+            "flying",
+            "water"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 846,
+          "pokemon": "arrokuda",
+          "tipos": [
+            "water"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 847,
+          "pokemon": "barraskewda",
+          "tipos": [
+            "water"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 848,
+          "pokemon": "toxel",
+          "tipos": [
+            "electric",
+            "poison"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 849,
+          "pokemon": "toxtricity",
+          "tipos": [
+            "electric",
+            "poison"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 850,
+          "pokemon": "sizzlipede",
+          "tipos": [
+            "fire",
+            "bug"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 851,
+          "pokemon": "centiskorch",
+          "tipos": [
+            "fire",
+            "bug"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 852,
+          "pokemon": "clobbopus",
+          "tipos": [
+            "fighting"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 853,
+          "pokemon": "grapploct",
+          "tipos": [
+            "fighting"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 854,
+          "pokemon": "sinistea",
+          "tipos": [
+            "ghost"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 855,
+          "pokemon": "polteageist",
+          "tipos": [
+            "ghost"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 856,
+          "pokemon": "hatenna",
+          "tipos": [
+            "psychic"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 857,
+          "pokemon": "hattrem",
+          "tipos": [
+            "psychic"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 858,
+          "pokemon": "hatterene",
+          "tipos": [
+            "psychic",
+            "fairy"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 859,
+          "pokemon": "impidimp",
+          "tipos": [
+            "dark",
+            "fairy"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 860,
+          "pokemon": "morgrem",
+          "tipos": [
+            "dark",
+            "fairy"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 861,
+          "pokemon": "grimmsnarl",
+          "tipos": [
+            "dark",
+            "fairy"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 862,
+          "pokemon": "obstagoon",
+          "tipos": [
+            "dark",
+            "normal"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 863,
+          "pokemon": "perrserker",
+          "tipos": [
+            "steel"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 864,
+          "pokemon": "cursola",
+          "tipos": [
+            "ghost"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 865,
+          "pokemon": "sirfetchd",
+          "tipos": [
+            "fighting"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 866,
+          "pokemon": "mr-rime",
+          "tipos": [
+            "ice",
+            "psychic"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 867,
+          "pokemon": "runerigus",
+          "tipos": [
+            "ground",
+            "ghost"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 868,
+          "pokemon": "milcery",
+          "tipos": [
+            "fairy"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 869,
+          "pokemon": "alcremie",
+          "tipos": [
+            "fairy"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 870,
+          "pokemon": "falinks",
+          "tipos": [
+            "fighting"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 871,
+          "pokemon": "pincurchin",
+          "tipos": [
+            "electric"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 872,
+          "pokemon": "snom",
+          "tipos": [
+            "ice",
+            "bug"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 873,
+          "pokemon": "frosmoth",
+          "tipos": [
+            "ice",
+            "bug"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 874,
+          "pokemon": "stonjourner",
+          "tipos": [
+            "rock"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 875,
+          "pokemon": "eiscue",
+          "tipos": [
+            "ice"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 876,
+          "pokemon": "indeedee",
+          "tipos": [
+            "psychic",
+            "normal"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 877,
+          "pokemon": "morpeko",
+          "tipos": [
+            "electric",
+            "dark"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 878,
+          "pokemon": "cufant",
+          "tipos": [
+            "steel"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 879,
+          "pokemon": "copperajah",
+          "tipos": [
+            "steel"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 880,
+          "pokemon": "dracozolt",
+          "tipos": [
+            "electric",
+            "dragon"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 881,
+          "pokemon": "arctozolt",
+          "tipos": [
+            "electric",
+            "ice"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 882,
+          "pokemon": "dracovish",
+          "tipos": [
+            "water",
+            "dragon"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 883,
+          "pokemon": "arctovish",
+          "tipos": [
+            "water",
+            "ice"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 884,
+          "pokemon": "duraludon",
+          "tipos": [
+            "steel",
+            "dragon"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 885,
+          "pokemon": "dreepy",
+          "tipos": [
+            "dragon",
+            "ghost"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 886,
+          "pokemon": "drakloak",
+          "tipos": [
+            "dragon",
+            "ghost"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 887,
+          "pokemon": "dragapult",
+          "tipos": [
+            "dragon",
+            "ghost"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 888,
+          "pokemon": "zacian",
+          "tipos": [
+            "fairy"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 889,
+          "pokemon": "zamazenta",
+          "tipos": [
+            "fighting"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 890,
+          "pokemon": "eternatus",
+          "tipos": [
+            "poison",
+            "dragon"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 891,
+          "pokemon": "kubfu",
+          "tipos": [
+            "fighting"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 892,
+          "pokemon": "urshifu",
+          "tipos": [
+            "fighting",
+            "dark"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 893,
+          "pokemon": "zarude",
+          "tipos": [
+            "dark",
+            "grass"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 894,
+          "pokemon": "regieleki",
+          "tipos": [
+            "electric"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 895,
+          "pokemon": "regidrago",
+          "tipos": [
+            "dragon"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 896,
+          "pokemon": "glastrier",
+          "tipos": [
+            "ice"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 897,
+          "pokemon": "spectrier",
+          "tipos": [
+            "ghost"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 898,
+          "pokemon": "calyrex",
+          "tipos": [
+            "psychic",
+            "grass"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 899,
+          "pokemon": "wyrdeer",
+          "tipos": [
+            "normal",
+            "psychic"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 900,
+          "pokemon": "kleavor",
+          "tipos": [
+            "bug",
+            "rock"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 901,
+          "pokemon": "ursaluna",
+          "tipos": [
+            "ground",
+            "normal"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 902,
+          "pokemon": "basculegion",
+          "tipos": [
+            "water",
+            "ghost"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 903,
+          "pokemon": "sneasler",
+          "tipos": [
+            "fighting",
+            "poison"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 904,
+          "pokemon": "overqwil",
+          "tipos": [
+            "dark",
+            "poison"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 905,
+          "pokemon": "enamorus",
+          "tipos": [
+            "fairy",
+            "flying"
+          ]
+        }
       ]
     ]
   },
@@ -964,118 +8637,1082 @@
     "geracao": "paldea",
     "pokemons": [
       [
-        "pawmi",
-        "sprigatito",
-        "fuecoco",
-        "quaxly",
-        "lechonk",
-        "tarountula",
-        "nymble",
-        "tandemaus",
-        "fidough",
-        "smoliv",
-        "squawkabilly",
-        "nacli",
-        "charcadet",
-        "tadbulb",
-        "wattrel",
-        "maschiff",
-        "shroodle",
-        "bramblin",
-        "toedscool",
-        "klawf",
-        "capsakid",
-        "rellor",
-        "flittle",
-        "tinkatink",
-        "wiglett",
-        "bombirdier",
-        "finizen",
-        "varoom",
-        "cyclizar",
-        "orthworm",
-        "glimmet",
-        "greavard",
-        "flamigo",
-        "cetoddle",
-        "veluza",
-        "dondozo",
-        "tatsugiri",
-        "great-tusk",
-        "scream-tail",
-        "brute-bonnet",
-        "flutter-mane",
-        "slither-wing",
-        "sandy-shocks",
-        "iron-treads",
-        "iron-bundle",
-        "iron-hands",
-        "iron-jugulis",
-        "iron-moth",
-        "iron-thorns",
-        "frigibax",
-        "gimmighoul",
-        "wo-chien",
-        "chien-pao",
-        "ting-lu",
-        "chi-yu",
-        "roaring-moon",
-        "iron-valiant",
-        "koraidon",
-        "miraidon",
-        "walking-wake",
-        "iron-leaves",
-        "poltchageist",
-        "okidogi",
-        "munkidori",
-        "fezandipiti",
-        "ogerpon",
-        "floragato",
-        "meowscarada",
-        "crocalor",
-        "skeledirge",
-        "quaxwell",
-        "quaquaval",
-        "oinkologne",
-        "spidops",
-        "lokix",
-        "pawmo",
-        "pawmot",
-        "maushold",
-        "dachsbun",
-        "dolliv",
-        "arboliva",
-        "naclstack",
-        "garganacl",
-        "armarouge",
-        "ceruledge",
-        "bellibolt",
-        "kilowattrel",
-        "mabosstiff",
-        "grafaiai",
-        "brambleghast",
-        "toedscruel",
-        "scovillain",
-        "rabsca",
-        "espathra",
-        "tinkatuff",
-        "tinkaton",
-        "wugtrio",
-        "palafin",
-        "revavroom",
-        "glimmora",
-        "houndstone",
-        "cetitan",
-        "annihilape",
-        "clodsire",
-        "farigiraf",
-        "dudunsparce",
-        "kingambit",
-        "arctibax",
-        "baxcalibur",
-        "gholdengo",
-        "dipplin",
-        "sinistcha"
+        {
+          "numero": 906,
+          "pokemon": "sprigatito",
+          "tipos": [
+            "grass"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 907,
+          "pokemon": "floragato",
+          "tipos": [
+            "grass"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 908,
+          "pokemon": "meowscarada",
+          "tipos": [
+            "grass",
+            "dark"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 909,
+          "pokemon": "fuecoco",
+          "tipos": [
+            "fire"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 910,
+          "pokemon": "crocalor",
+          "tipos": [
+            "fire"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 911,
+          "pokemon": "skeledirge",
+          "tipos": [
+            "fire",
+            "ghost"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 912,
+          "pokemon": "quaxly",
+          "tipos": [
+            "water"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 913,
+          "pokemon": "quaxwell",
+          "tipos": [
+            "water"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 914,
+          "pokemon": "quaquaval",
+          "tipos": [
+            "water",
+            "fighting"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 915,
+          "pokemon": "lechonk",
+          "tipos": [
+            "normal"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 916,
+          "pokemon": "oinkologne",
+          "tipos": [
+            "normal"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 917,
+          "pokemon": "tarountula",
+          "tipos": [
+            "bug"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 918,
+          "pokemon": "spidops",
+          "tipos": [
+            "bug"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 919,
+          "pokemon": "nymble",
+          "tipos": [
+            "bug"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 920,
+          "pokemon": "lokix",
+          "tipos": [
+            "bug",
+            "dark"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 921,
+          "pokemon": "pawmi",
+          "tipos": [
+            "electric"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 922,
+          "pokemon": "pawmo",
+          "tipos": [
+            "electric",
+            "fighting"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 923,
+          "pokemon": "pawmot",
+          "tipos": [
+            "electric",
+            "fighting"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 924,
+          "pokemon": "tandemaus",
+          "tipos": [
+            "normal"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 925,
+          "pokemon": "maushold",
+          "tipos": [
+            "normal"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 926,
+          "pokemon": "fidough",
+          "tipos": [
+            "fairy"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 927,
+          "pokemon": "dachsbun",
+          "tipos": [
+            "fairy"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 928,
+          "pokemon": "smoliv",
+          "tipos": [
+            "grass",
+            "normal"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 929,
+          "pokemon": "dolliv",
+          "tipos": [
+            "grass",
+            "normal"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 930,
+          "pokemon": "arboliva",
+          "tipos": [
+            "grass",
+            "normal"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 931,
+          "pokemon": "squawkabilly",
+          "tipos": [
+            "normal",
+            "flying"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 932,
+          "pokemon": "nacli",
+          "tipos": [
+            "rock"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 933,
+          "pokemon": "naclstack",
+          "tipos": [
+            "rock"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 934,
+          "pokemon": "garganacl",
+          "tipos": [
+            "rock"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 935,
+          "pokemon": "charcadet",
+          "tipos": [
+            "fire"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 936,
+          "pokemon": "armarouge",
+          "tipos": [
+            "fire",
+            "psychic"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 937,
+          "pokemon": "ceruledge",
+          "tipos": [
+            "fire",
+            "ghost"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 938,
+          "pokemon": "tadbulb",
+          "tipos": [
+            "electric"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 939,
+          "pokemon": "bellibolt",
+          "tipos": [
+            "electric"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 940,
+          "pokemon": "wattrel",
+          "tipos": [
+            "electric",
+            "flying"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 941,
+          "pokemon": "kilowattrel",
+          "tipos": [
+            "electric",
+            "flying"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 942,
+          "pokemon": "maschiff",
+          "tipos": [
+            "dark"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 943,
+          "pokemon": "mabosstiff",
+          "tipos": [
+            "dark"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 944,
+          "pokemon": "shroodle",
+          "tipos": [
+            "poison",
+            "normal"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 945,
+          "pokemon": "grafaiai",
+          "tipos": [
+            "poison",
+            "normal"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 946,
+          "pokemon": "bramblin",
+          "tipos": [
+            "grass",
+            "ghost"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 947,
+          "pokemon": "brambleghast",
+          "tipos": [
+            "grass",
+            "ghost"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 948,
+          "pokemon": "toedscool",
+          "tipos": [
+            "ground",
+            "grass"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 949,
+          "pokemon": "toedscruel",
+          "tipos": [
+            "ground",
+            "grass"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 950,
+          "pokemon": "klawf",
+          "tipos": [
+            "rock"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 951,
+          "pokemon": "capsakid",
+          "tipos": [
+            "grass"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 952,
+          "pokemon": "scovillain",
+          "tipos": [
+            "grass",
+            "fire"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 953,
+          "pokemon": "rellor",
+          "tipos": [
+            "bug"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 954,
+          "pokemon": "rabsca",
+          "tipos": [
+            "bug",
+            "psychic"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 955,
+          "pokemon": "flittle",
+          "tipos": [
+            "psychic"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 956,
+          "pokemon": "espathra",
+          "tipos": [
+            "psychic"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 957,
+          "pokemon": "tinkatink",
+          "tipos": [
+            "fairy",
+            "steel"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 958,
+          "pokemon": "tinkatuff",
+          "tipos": [
+            "fairy",
+            "steel"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 959,
+          "pokemon": "tinkaton",
+          "tipos": [
+            "fairy",
+            "steel"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 960,
+          "pokemon": "wiglett",
+          "tipos": [
+            "water"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 961,
+          "pokemon": "wugtrio",
+          "tipos": [
+            "water"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 962,
+          "pokemon": "bombirdier",
+          "tipos": [
+            "flying",
+            "dark"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 963,
+          "pokemon": "finizen",
+          "tipos": [
+            "water"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 964,
+          "pokemon": "palafin",
+          "tipos": [
+            "water"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 965,
+          "pokemon": "varoom",
+          "tipos": [
+            "steel",
+            "poison"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 966,
+          "pokemon": "revavroom",
+          "tipos": [
+            "steel",
+            "poison"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 967,
+          "pokemon": "cyclizar",
+          "tipos": [
+            "dragon",
+            "normal"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 968,
+          "pokemon": "orthworm",
+          "tipos": [
+            "steel"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 969,
+          "pokemon": "glimmet",
+          "tipos": [
+            "rock",
+            "poison"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 970,
+          "pokemon": "glimmora",
+          "tipos": [
+            "rock",
+            "poison"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 971,
+          "pokemon": "greavard",
+          "tipos": [
+            "ghost"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 972,
+          "pokemon": "houndstone",
+          "tipos": [
+            "ghost"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 973,
+          "pokemon": "flamigo",
+          "tipos": [
+            "flying",
+            "fighting"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 974,
+          "pokemon": "cetoddle",
+          "tipos": [
+            "ice"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 975,
+          "pokemon": "cetitan",
+          "tipos": [
+            "ice"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 976,
+          "pokemon": "veluza",
+          "tipos": [
+            "water",
+            "psychic"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 977,
+          "pokemon": "dondozo",
+          "tipos": [
+            "water"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 978,
+          "pokemon": "tatsugiri",
+          "tipos": [
+            "dragon",
+            "water"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 979,
+          "pokemon": "annihilape",
+          "tipos": [
+            "fighting",
+            "ghost"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 980,
+          "pokemon": "clodsire",
+          "tipos": [
+            "poison",
+            "ground"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 981,
+          "pokemon": "farigiraf",
+          "tipos": [
+            "normal",
+            "psychic"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 982,
+          "pokemon": "dudunsparce",
+          "tipos": [
+            "normal"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 983,
+          "pokemon": "kingambit",
+          "tipos": [
+            "dark",
+            "steel"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 984,
+          "pokemon": "great-tusk",
+          "tipos": [
+            "ground",
+            "fighting"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 985,
+          "pokemon": "scream-tail",
+          "tipos": [
+            "fairy",
+            "psychic"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 986,
+          "pokemon": "brute-bonnet",
+          "tipos": [
+            "grass",
+            "dark"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 987,
+          "pokemon": "flutter-mane",
+          "tipos": [
+            "ghost",
+            "fairy"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 988,
+          "pokemon": "slither-wing",
+          "tipos": [
+            "bug",
+            "fighting"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 989,
+          "pokemon": "sandy-shocks",
+          "tipos": [
+            "electric",
+            "ground"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 990,
+          "pokemon": "iron-treads",
+          "tipos": [
+            "ground",
+            "steel"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 991,
+          "pokemon": "iron-bundle",
+          "tipos": [
+            "ice",
+            "water"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 992,
+          "pokemon": "iron-hands",
+          "tipos": [
+            "fighting",
+            "electric"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 993,
+          "pokemon": "iron-jugulis",
+          "tipos": [
+            "dark",
+            "flying"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 994,
+          "pokemon": "iron-moth",
+          "tipos": [
+            "fire",
+            "poison"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 995,
+          "pokemon": "iron-thorns",
+          "tipos": [
+            "rock",
+            "electric"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 996,
+          "pokemon": "frigibax",
+          "tipos": [
+            "dragon",
+            "ice"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 997,
+          "pokemon": "arctibax",
+          "tipos": [
+            "dragon",
+            "ice"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 998,
+          "pokemon": "baxcalibur",
+          "tipos": [
+            "dragon",
+            "ice"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 999,
+          "pokemon": "gimmighoul",
+          "tipos": [
+            "ghost"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 1000,
+          "pokemon": "gholdengo",
+          "tipos": [
+            "steel",
+            "ghost"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 1001,
+          "pokemon": "wo-chien",
+          "tipos": [
+            "dark",
+            "grass"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 1002,
+          "pokemon": "chien-pao",
+          "tipos": [
+            "dark",
+            "ice"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 1003,
+          "pokemon": "ting-lu",
+          "tipos": [
+            "dark",
+            "ground"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 1004,
+          "pokemon": "chi-yu",
+          "tipos": [
+            "dark",
+            "fire"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 1005,
+          "pokemon": "roaring-moon",
+          "tipos": [
+            "dragon",
+            "dark"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 1006,
+          "pokemon": "iron-valiant",
+          "tipos": [
+            "fairy",
+            "fighting"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 1007,
+          "pokemon": "koraidon",
+          "tipos": [
+            "fighting",
+            "dragon"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 1008,
+          "pokemon": "miraidon",
+          "tipos": [
+            "electric",
+            "dragon"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 1009,
+          "pokemon": "walking-wake",
+          "tipos": [
+            "water",
+            "dragon"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 1010,
+          "pokemon": "iron-leaves",
+          "tipos": [
+            "grass",
+            "psychic"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 1011,
+          "pokemon": "dipplin",
+          "tipos": [
+            "grass",
+            "dragon"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 1012,
+          "pokemon": "poltchageist",
+          "tipos": [
+            "grass",
+            "ghost"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 1013,
+          "pokemon": "sinistcha",
+          "tipos": [
+            "grass",
+            "ghost"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 1014,
+          "pokemon": "okidogi",
+          "tipos": [
+            "poison",
+            "fighting"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 1015,
+          "pokemon": "munkidori",
+          "tipos": [
+            "poison",
+            "psychic"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 1016,
+          "pokemon": "fezandipiti",
+          "tipos": [
+            "poison",
+            "fairy"
+          ]
+        }
+      ],
+      [
+        {
+          "numero": 1017,
+          "pokemon": "ogerpon",
+          "tipos": [
+            "grass"
+          ]
+        }
       ]
     ]
   }
